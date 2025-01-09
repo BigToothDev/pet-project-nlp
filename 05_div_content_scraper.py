@@ -1,10 +1,15 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import re
 
-
-with open("anal_filtered_suspilne_articles.json", "r", encoding="utf-8") as file:
+with open("04_anal_filtered_suspilne_articles.json", "r", encoding="utf-8") as file:
     suspilne_df = json.load(file)
+
+def clean_content(content):
+    content = re.sub(r"(Підписуйтеся на новини\s.*)", "", content)
+    content = re.sub(r"(Читати ще\s.*)", "", content)
+    return content.strip()
 
 for article in suspilne_df:
     url = article["article_data"]["link"]
@@ -26,7 +31,8 @@ for article in suspilne_df:
 
         if content_div:
             content = content_div.get_text(separator=" ", strip=True)
-            article["article_data"]["content"] = content
+            cleaned_content = clean_content(content)
+            article["article_data"]["content"] = cleaned_content
         else:
             print(f"Основний контент не знайдено для {url}")
     else:
