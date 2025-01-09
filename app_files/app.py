@@ -1,107 +1,126 @@
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output
+from shiny import App, render, ui, reactive
 import pandas as pd
 import json
 import plotly.graph_objs as go
 
+# Load the dataset (assuming the JSON structure is similar to the original R code)
 with open('dataset.json') as f:
     data = json.load(f)
 
-app = dash.Dash(__name__)
-
+# Convert the dataset to a pandas DataFrame
 df = pd.json_normalize(data)
 
-app.layout = html.Div([
-    html.H1("Visualisation of the data"),
-    html.Div([
-        html.Div([
-            html.Label("Select an article by ID:"),
-            dcc.Dropdown(
-                id='article_id_manual',
-                options=[{'label': str(id), 'value': id} for id in df['ID']],
-                value=None
-            ),
-            html.Label("Search by keyword:"),
-            dcc.Input(id='keyword', type='text', value=''),
-            html.Button("Find", id='search_btn'),
-            html.Label("Select an article with your keyword:"),
-            dcc.Dropdown(
-                id='article_id_search',
-                options=[],
-                value=None
-            )
-        ], style={'width': '30%', 'display': 'inline-block'}),
+# Define the UI
+app_ui = ui.page_fluid(
+    ui.h1("Visualisation of the data"),
+    ui.layout_sidebar(
+        ui.panel_sidebar(
+            ui.input_select("article_id_manual", "Select an article by ID:", [str(id) for id in df['ID']]),
+            ui.input_text("keyword", "Search by keyword:", ""),
+            ui.input_action_button("search_btn", "Find"),
+            ui.input_select("article_id_search", "Select an article with your keyword:", []),
+        ),
+        ui.panel_main(
+            ui.h3("Article title:"),
+            ui.output_text("headline"),
+            ui.h4("Date:"),
+            ui.output_text("datetime"),
+            ui.h4("URL:"),
+            ui.output_text("link"),
+            ui.h4("Tone of the article:"),
+            ui.output_text("tone"),
+            ui.h4("General sentiment:"),
+            ui.output_text("general_sentiment"),
+            ui.h4("Text of the article:"),
+            ui.output_text("content"),
+        ),
+    ),
+)
+
+# Define the server logic
+def server(input, output, session):
+
+    @reactive.Calc
+    def selected_article():
+        article_id = input.article_id_manual()
+        if article_id is None:
+            return None
+        return df[df['ID'] == int(article_id)].iloc[0]
+    
+    @output()
+    @render.text
+    def headline():
+        article = selected_article()
+        if article is not None:
+            return article['article_data.headline']
+        return ""
+
+    @output()
+    @render.text
+    def content():
+        article = selected_article()
+        if article is not None:
+            return article['article_data.content']
+        return ""
+
+    @output()
+    @render.text
+    def link():
+        article = selected_article()
+        if article is not None:
+            return article['article_data.link']
+        return ""
+
+    @output()
+    @render.text
+    def datetime():
+        article = selected_article()
+        if article is not None:
+            return article['article_data.datetime']
+        return ""
+
+    @output()
+    @render.text
+    def tone():
+        article = selected_article()
+        if article is not None:
+            return f"Negative tone: {article['article_data.neg_tone']}\nNeutral tone: {article['article_data.neu_tone']}\nPositive tone: {article['article_data.pos_tone']}\nCompound tone: {article['article_data.compound_tone']}"
+        return ""
+
+    @output()
+    @render.text
+    def general_sentiment():
+        article = selected_article()
+        if article is not None:
+            compound_tone = article['article_data.compound_tone']
+            if compound_tone >= 0.05:
+                return "Positive"
+            elif compound_tone <= -0.05:
+                return "Negative"
+            else:
+                return "Neutral"
+        return ""
+
+    @reactive.Effect
+    def update_article_search():
+        if input.search_btn() is None or not input.keyword():
+            return
+        keyword = input.keyword()
+        filtered_data = df[df['article_data.lemmatized_headline'].str.contains(keyword, case=False, na=False)]
         
-        html.Div([
-            html.H3("Article title:"),
-            html.Div(id='headline'),
-            html.H4("Date:"),
-            html.Div(id='datetime'),
-            html.H4("URL:"),
-            html.Div(id='link'),
-            html.H4("Tone of the article:"),
-            html.Pre(id='tone'),
-            html.H4("General sentiment:"),
-            html.Div(id='general_sentiment'),
-            html.H4("Text of the article:"),
-            html.Div(id='content')
-        ], style={'width': '60%', 'display': 'inline-block'})
-    ])
-])
+        if len(filtered_data) > 0:
+            session.update_input("article_id_search", options=[str(id) for id in filtered_data['ID']])
+        else:
+            session.update_input("article_id_search", options=[])
 
-@app.callback(
-    [Output('headline', 'children'),
-     Output('content', 'children'),
-     Output('link', 'children'),
-     Output('datetime', 'children'),
-     Output('tone', 'children'),
-     Output('general_sentiment', 'children')],
-    [Input('article_id_manual', 'value')]
-)
-def update_article_info(article_id):
-    if article_id is None:
-        return "", "", "", "", "", ""
-    
-    article = df[df['ID'] == article_id].iloc[0]
-    headline = article['article_data.headline']
-    content = article['article_data.content']
-    link = article['article_data.link']
-    datetime = article['article_data.datetime']
-    neg_tone = article['article_data.neg_tone']
-    neu_tone = article['article_data.neu_tone']
-    pos_tone = article['article_data.pos_tone']
-    compound_tone = article['article_data.compound_tone']
-    
-    tone = f"Negative tone: {neg_tone}\nNeutral tone: {neu_tone}\nPositive tone: {pos_tone}\nCompound tone: {compound_tone}"
-    
-    general_sentiment = "Positive" if compound_tone >= 0.05 else ("Negative" if compound_tone <= -0.05 else "Neutral")
-    
-    return headline, content, link, datetime, tone, general_sentiment
+    @reactive.Effect
+    def update_manual_article_id():
+        article_id_search = input.article_id_search()
+        if article_id_search:
+            session.update_input("article_id_manual", value=article_id_search)
 
-@app.callback(
-    Output('article_id_search', 'options'),
-    [Input('search_btn', 'n_clicks')],
-    [Input('keyword', 'value')]
-)
-def search_articles(n_clicks, keyword):
-    if n_clicks is None or not keyword:
-        return []
-    
-    filtered_data = df[df['article_data.lemmatized_headline'].str.contains(keyword, case=False, na=False)]
-    
-    if filtered_data.empty:
-        return []
-    
-    return [{'label': str(id), 'value': id} for id in filtered_data['ID']]
+# Create and run the app
+app = App(app_ui, server)
 
-@app.callback(
-    Output('article_id_manual', 'value'),
-    [Input('article_id_search', 'value')]
-)
-def update_manual_article_id(article_id_search):
-    return article_id_search
-
-if __name__ == '__main__':
-    app.run_server(debug=True)
+if __name__ == "__main__":
+    app.run()
