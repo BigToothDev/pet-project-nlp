@@ -26,3 +26,15 @@ This specific code gathers all data from chosen pages of the [Suspilne](https://
 ## File 06_cleaning_lemmatizing_content.py
 
 > This script processes the content of filtered articles by lemmatizing and removing stopwords. It starts by loading a list of Ukrainian stopwords from a file and a pre-trained spaCy model for Ukrainian language processing. Then, it reads the filtered articles from a JSON file and iterates over each article. The script uses spaCy to lemmatize the content for each article, converting words to their base form. It also removes stopwords from the lemmatized content using a custom function that filters out words listed in the stopwords file. The lemmatized and cleaned content is added to each article's data. Finally, the updated articles are saved to a new JSON file, which now includes both the lemmatized and clean versions of the content.
+
+## File 07_stemming_of_tone_vocab.py
+
+> This script processes a CSV file containing words and their tone scores by stemming the words and creating a dictionary of unique stems and their corresponding tone scores. Each word from the file is then stemmed using the SnowballStemmer for Russian, and its tone score is extracted. The stemmed word is stored as the key, and its score is stored as the value in a dictionary. The final dictionary of stems and tone scores is saved into a JSON file for further use.
+
+## File 08_stemming_content.py
+
+> This script processes the content of articles by stemming the words in their clean content. It begins by loading a JSON file containing articles. For each article, it retrieves the "clean_content" field, splits the content into individual words, and stems each word using the SnowballStemmer for Russian. The stemmed words are then joined back together into a single string. This stemmed content is added to the article's data under the key "stem_content." Finally, the updated data, including the stemmed content for each article, is saved to a new JSON file for further use.
+
+## File 09_sentiment_analysis.py
+
+> This script analyzes the sentiment of the stemmed content in the articles. It starts by loading a custom tone dictionary from a JSON file, which is then integrated into the SentimentIntensityAnalyzer (SIA) from the nltk library. The script then loads a JSON file containing articles with their stemmed content. For each article, it calculates the sentiment using the polarity_scores() method from SIA, which provides the negative, neutral, positive, and compound sentiment scores. These scores are added to the article's data under the keys "neg_tone," "neu_tone," "pos_tone," and "compound_tone." Finally, the updated articles, including the sentiment analysis results, are saved to a new JSON file.
