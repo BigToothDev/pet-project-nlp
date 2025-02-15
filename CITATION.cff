@@ -1,1 +1,10 @@
-
+cff-version: "1.0.0"
+message: "If you use this software, please cite it using the following metadata."
+title: "pet-project-nlp"
+abstract: "Natural language processing pet project. It includes data web scraping, lemmatizing, stemming, and working with related words (hyponyms, hypernyms, meronyms, holonyms). This specific code gathers all data from chosen pages of the Suspilne (Суспільне) webpage. Next, the data is manipulated and processed for future analysis."
+date-released: "2025-01-15"
+authors:
+  - name: "Lytvynenko Oleksandr"
+    orcid: "https://orcid.org/0009-0002-9165-4482"
+repository-code: "https://github.com/BigToothDev/pet-project-nlp"
+preferred-citation: "APA"
