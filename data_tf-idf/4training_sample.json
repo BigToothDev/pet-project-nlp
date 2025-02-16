@@ -1,0 +1,3002 @@
+[
+    {
+        "ID": 2161,
+        "article_data": {
+            "link": "https://suspilne.media/893537-garvi-vajnstejna-gospitalizuvali-pisla-otrimanih-rezultativ-analizu-krovi/",
+            "headline": "Гарві Вайнштейна госпіталізували після отриманих результатів аналізу крові",
+            "lemmatized_headline": "гарві вайнштейн госпіталізувати після отриманий результат аналіз кров",
+            "datetime": "2024-12-03T03:50+02:00",
+            "cl_lem_headline": "гарві вайнштейн госпіталізувати після отриманий результат аналіз кров"
+        }
+    },
+    {
+        "ID": 2265,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/892405-troe-zagiblih-visim-poranenih-vnaslidok-dronovoi-ataki-marsrutki-u-hersoni-so-vidomo-pro-stan-travmovanih/",
+            "headline": "Троє загиблих, вісім поранених внаслідок дронової атаки маршрутки у Херсоні: що відомо про стан травмованих",
+            "lemmatized_headline": "троє загиблих , вісім поранений внаслідок дронової атака маршрутка у херсон : що відомо про стан травмований",
+            "datetime": "2024-12-01T12:51+02:00",
+            "cl_lem_headline": "троє загиблих вісім поранений внаслідок дронової атака маршрутка у херсон що відомо про стан травмований"
+        }
+    },
+    {
+        "ID": 2103,
+        "article_data": {
+            "link": "https://suspilne.media/894201-u-litvi-zaboronili-skladati-ispit-na-vodijski-prava-rosijskou-movou/",
+            "headline": "У Литві заборонили складати іспит на водійські права російською мовою",
+            "lemmatized_headline": "у литва заборонити складати іспит на водійський право російський мова",
+            "datetime": "2024-12-03T18:19+02:00",
+            "cl_lem_headline": "у литва заборонити складати іспит на водійський право російський мова"
+        }
+    },
+    {
+        "ID": 2057,
+        "article_data": {
+            "link": "https://suspilne.media/894619-rada-perenesla-podatki-dla-dla-fopiv-na-1-sicna/",
+            "headline": "Рада перенесла податки для ФОПів на 1 січня",
+            "lemmatized_headline": "рада перенести податок для фоп на 1 січень",
+            "datetime": "2024-12-04T12:07+02:00",
+            "cl_lem_headline": "рада перенести податок для фоп на 1 січень"
+        }
+    },
+    {
+        "ID": 594,
+        "article_data": {
+            "link": "https://suspilne.media/909443-kndr-moze-vidpraviti-v-rosiu-novih-soldativ-i-tehniku-zelenskij/",
+            "headline": "КНДР може відправити в Росію нових солдатів і техніку — Зеленський",
+            "lemmatized_headline": "кндр могти відправити в росія новий солдат і техніка — зеленський",
+            "datetime": "2024-12-23T18:23+02:00",
+            "cl_lem_headline": "кндр могти відправити в росія новий солдат і техніка зеленський"
+        }
+    },
+    {
+        "ID": 1651,
+        "article_data": {
+            "link": "https://suspilne.media/898797-bloomberg-rf-znajsla-shemi-zakupivli-napivprovidnikiv-v-amerikanskih-kompanij/",
+            "headline": "Bloomberg: РФ знайшла схеми закупівлі напівпровідників в американських компаній",
+            "lemmatized_headline": "bloomberg : рф знайти схема закупівля напівпровідник в американський компанія",
+            "datetime": "2024-12-10T01:03+02:00",
+            "cl_lem_headline": "bloomberg рф знайти схема закупівля напівпровідник в американський компанія"
+        }
+    },
+    {
+        "ID": 2620,
+        "article_data": {
+            "link": "https://suspilne.media/sumy/888675-u-velikij-pisarivci-na-sumsini-cerez-rosijsku-ataku-poraneno-51-ricnogo-colovika/",
+            "headline": "У Великій Писарівці на Сумщині через російську атаку поранено 51-річного чоловіка",
+            "lemmatized_headline": "у великий писарівка на сумщина через російський атака поранити 51-річного чоловік",
+            "datetime": "2024-11-26T15:49+02:00",
+            "cl_lem_headline": "у великий писарівка на сумщина через російський атака поранити 51річного чоловік"
+        }
+    },
+    {
+        "ID": 1963,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/895613-pidpaluvali-avtomobili-vijskovih-na-zamovlenna-rosian-u-kievi-ta-oblasti-pravoohoronci-zatrimali-jmovirnih-zlocinciv/",
+            "headline": "Підпалювали автомобілі військових на замовлення росіян: у Києві та області правоохоронці затримали ймовірних злочинців",
+            "lemmatized_headline": "підпалювати автомобіль військовий на замовлення росіянин : у кий та область правоохоронець затримати ймовірний злочинець",
+            "datetime": "2024-12-05T14:02+02:00",
+            "cl_lem_headline": "підпалювати автомобіль військовий на замовлення росіянин у кий та область правоохоронець затримати ймовірний злочинець"
+        }
+    },
+    {
+        "ID": 234,
+        "article_data": {
+            "link": "https://suspilne.media/912929-meksika-rozroblae-dodatok-dla-dopomogi-migrantam-u-vipadku-zatrimanna-u-ssa/",
+            "headline": "Мексика розробляє додаток для допомоги мігрантам у випадку затримання у США",
+            "lemmatized_headline": "мексика розробляти додаток для допомога мігрант у випадок затримання у сша",
+            "datetime": "2024-12-28T03:54+02:00",
+            "cl_lem_headline": "мексика розробляти додаток для допомога мігрант у випадок затримання у сша"
+        }
+    },
+    {
+        "ID": 2522,
+        "article_data": {
+            "link": "https://suspilne.media/889761-v-ukrenergo-rozpovili-koli-v-ukraini-28-listopada-vimikatimut-svitlo/",
+            "headline": "В \"Укренерго\" розповіли, коли в Україні 28 листопада вимикатимуть світло",
+            "lemmatized_headline": "в \" укренерго \" розповісти , коли в україна 28 листопад вимикати світло",
+            "datetime": "2024-11-27T19:25+02:00",
+            "cl_lem_headline": "в укренерго розповісти коли в україна 28 листопад вимикати світло"
+        }
+    },
+    {
+        "ID": 465,
+        "article_data": {
+            "link": "https://suspilne.media/ivano-frankivsk/910441-raketna-ataka-rf-castina-ivano-frankivskoi-oblasti-bez-elektroenergii/",
+            "headline": "Ракетна атака РФ: частина Івано-Франківської області без електроенергії",
+            "lemmatized_headline": "ракетний атака рф : частина івано - франківський область без електроенергія",
+            "datetime": "2024-12-25T08:55+02:00",
+            "cl_lem_headline": "ракетний атака рф частина івано франківський область без електроенергія"
+        }
+    },
+    {
+        "ID": 193,
+        "article_data": {
+            "link": "https://suspilne.media/913317-prorosijski-hakeri-atakuvali-vebsajti-v-italii/",
+            "headline": "Проросійські хакери атакували вебсайти в Італії",
+            "lemmatized_headline": "проросійський хакер атакувати вебсайт в італія",
+            "datetime": "2024-12-28T18:56+02:00",
+            "cl_lem_headline": "проросійський хакер атакувати вебсайт в італія"
+        }
+    },
+    {
+        "ID": 1662,
+        "article_data": {
+            "link": "https://suspilne.media/898685-zustric-novoi-kontaktnoi-grupi-zaplanovana-na-gruden-nikiforov/",
+            "headline": "У грудні Україна планує провести зустріч ключових європейських союзників — Никифоров",
+            "lemmatized_headline": "у грудень україна планувати провести зустріч ключовий європейський союзник — никифоров",
+            "datetime": "2024-12-09T19:34+02:00",
+            "cl_lem_headline": "у грудень україна планувати провести зустріч ключовий європейський союзник никифоров"
+        }
+    },
+    {
+        "ID": 1977,
+        "article_data": {
+            "link": "https://suspilne.media/895437-kiberfahivci-gur-paralizuvali-robotu-rosijskogo-gazprombanku/",
+            "headline": "Кіберфахівці ГУР паралізували роботу російського \"Газпромбанку\"",
+            "lemmatized_headline": "кіберфахівець гур паралізувати робота російський \" газпромбанк \"",
+            "datetime": "2024-12-05T11:16+02:00",
+            "cl_lem_headline": "кіберфахівець гур паралізувати робота російський газпромбанк "
+        }
+    },
+    {
+        "ID": 1497,
+        "article_data": {
+            "link": "https://suspilne.media/900465-ssa-ne-viklucaut-so-rf-moze-vdariti-oresnikom-po-ukraini-najblizcimi-dnami/",
+            "headline": "США не виключають, що РФ може вдарити \"Орєшніком\" по Україні найближчими днями",
+            "lemmatized_headline": "сша не виключати , що рф могти вдарити \" орєшніком \" по україна найближчий день",
+            "datetime": "2024-12-11T22:01+02:00",
+            "cl_lem_headline": "сша не виключати що рф могти вдарити орєшніком по україна найближчий день"
+        }
+    },
+    {
+        "ID": 1743,
+        "article_data": {
+            "link": "https://suspilne.media/897881-posolstvo-ssa-v-kievi-poperedzae-pro-zbilsenna-zagroz-atak-po-ukraini/",
+            "headline": "Посольство США в Києві попереджає про збільшення загроз атак по Україні",
+            "lemmatized_headline": "посольство сша в кий попереджати про збільшення загроза атака по україна",
+            "datetime": "2024-12-08T19:40+02:00",
+            "cl_lem_headline": "посольство сша в кий попереджати про збільшення загроза атака по україна"
+        }
+    },
+    {
+        "ID": 1510,
+        "article_data": {
+            "link": "https://suspilne.media/culture/900149-na-evrobacenni-vvodat-novi-pravila-so-spramovani-na-uniknenna-skandaliv-i-pidtrimku-cinnostej-ednosti/",
+            "headline": "На \"Євробаченні\" вводять нові правила, що спрямовані на уникнення скандалів і \"підтримку цінностей єдності\"",
+            "lemmatized_headline": "на \" євробачення \" вводити новий правило , що спрямований на уникнення скандал і \" підтримка цінність єдність \"",
+            "datetime": "2024-12-11T18:08+02:00",
+            "cl_lem_headline": "на євробачення вводити новий правило що спрямований на уникнення скандал і підтримка цінність єдність "
+        }
+    },
+    {
+        "ID": 222,
+        "article_data": {
+            "link": "https://suspilne.media/913011-vlada-rosii-zaboronila-ip-telefoniu/",
+            "headline": "Влада Росії заборонила IP-телефонію у країні",
+            "lemmatized_headline": "влада росія заборонити ip - телефонія у країна",
+            "datetime": "2024-12-28T10:16+02:00",
+            "cl_lem_headline": "влада росія заборонити ip телефонія у країна"
+        }
+    },
+    {
+        "ID": 332,
+        "article_data": {
+            "link": "https://suspilne.media/911873-u-2024-roci-v-ukraini-prodali-3-mln-upakovok-opioidnogo-zneboluvalnogo-nalbufin-ministr-ohoroni-zdorova/",
+            "headline": "У 2024 році в Україні продали 3 млн упаковок опіоїдного знеболювального \"Налбуфін\" — міністр охорони здоровʼя",
+            "lemmatized_headline": "у 2024 рік в україна продати 3 млн упаковка опіоїдний знеболювальний \" налбуфін \" — міністр охорона здоровʼя",
+            "datetime": "2024-12-26T18:49+02:00",
+            "cl_lem_headline": "у 2024 рік в україна продати 3 млн упаковка опіоїдний знеболювальний налбуфін міністр охорона здоровʼя"
+        }
+    },
+    {
+        "ID": 2568,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/889089-poskodzeni-kvartiri-ta-budinki-rosijski-vijska-znovu-atakuvali-kiivsinu-dronami/",
+            "headline": "Пошкоджені квартири та будинки: російські війська знову атакували Київщину дронами",
+            "lemmatized_headline": "пошкоджений квартира та будинок : російський військо знову атакувати київщина дрон",
+            "datetime": "2024-11-27T09:32+02:00",
+            "cl_lem_headline": "пошкоджений квартира та будинок російський військо знову атакувати київщина дрон"
+        }
+    },
+    {
+        "ID": 925,
+        "article_data": {
+            "link": "https://suspilne.media/906243-minoboroni-rozroblae-adaptivnij-odag-dla-poranenih-vijskovosluzbovciv-zsu/",
+            "headline": "Міноборони розробляє адаптивний одяг для поранених військовослужбовців ЗСУ",
+            "lemmatized_headline": "міноборони розробляти адаптивний одяг для поранений військовослужбовець зсу",
+            "datetime": "2024-12-19T13:43+02:00",
+            "cl_lem_headline": "міноборони розробляти адаптивний одяг для поранений військовослужбовець зсу"
+        }
+    },
+    {
+        "ID": 1208,
+        "article_data": {
+            "link": "https://suspilne.media/903241-u-berlini-zatrimali-pidlitkiv-za-napad-na-aktivistiv-partii-solca/",
+            "headline": "У Берліні затримали підлітків за напад на активістів партії Шольца",
+            "lemmatized_headline": "у берлін затримати підліток за напад на активіст партія шольц",
+            "datetime": "2024-12-16T01:45+02:00",
+            "cl_lem_headline": "у берлін затримати підліток за напад на активіст партія шольц"
+        }
+    },
+    {
+        "ID": 98,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/914067-sili-oboroni-znisili-stab-armii-rf-na-zaporizzi-gur/",
+            "headline": "Сили оборони знищили штаб армії РФ на Запоріжжі — ГУР",
+            "lemmatized_headline": "сила оборона знищити штаб армія рф на запоріжжя — гур",
+            "datetime": "2024-12-30T11:36+02:00",
+            "cl_lem_headline": "сила оборона знищити штаб армія рф на запоріжжя гур"
+        }
+    },
+    {
+        "ID": 2099,
+        "article_data": {
+            "link": "https://suspilne.media/894203-na-silni-morozi-u-grudni-rozrahovuvati-ne-varto-ptuha/",
+            "headline": "На сильні морози у грудні розраховувати не варто — Птуха",
+            "lemmatized_headline": "на сильний мороз у грудень розраховувати не варта — птуха",
+            "datetime": "2024-12-03T19:07+02:00",
+            "cl_lem_headline": "на сильний мороз у грудень розраховувати не варта птуха"
+        }
+    },
+    {
+        "ID": 2288,
+        "article_data": {
+            "link": "https://suspilne.media/sport/892141-zadovolena-na-80-hristina-dmitrenko-provela-persu-estafetu-sezonu-v-nezvicnij-roli-ak-ii-ociniv-trener/",
+            "headline": "\"Задоволена на 80%\". Христина Дмитренко провела першу естафету сезону в незвичній ролі: як її оцінив тренер",
+            "lemmatized_headline": "\" задоволений на 80 % \" . христина дмитренко провести перший естафета сезон в незвичний роль : як вона оцінити тренер",
+            "datetime": "2024-11-30T22:47+02:00",
+            "cl_lem_headline": " задоволений на 80 христина дмитренко провести перший естафета сезон в незвичний роль як вона оцінити тренер"
+        }
+    },
+    {
+        "ID": 1481,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/900523-u-cornomu-mori-12-grudna-vidsutni-rosijski-korabli-vms-zsu/",
+            "headline": "У Чорному морі 12 грудня відсутні російські кораблі — ВМС ЗСУ",
+            "lemmatized_headline": "у чорний море 12 грудень відсутній російський корабель — вмс зсу",
+            "datetime": "2024-12-12T08:00+02:00",
+            "cl_lem_headline": "у чорний море 12 грудень відсутній російський корабель вмс зсу"
+        }
+    },
+    {
+        "ID": 52,
+        "article_data": {
+            "link": "https://suspilne.media/914661-z-rosijskogo-polonu-povernulisa-11-azovciv/",
+            "headline": "З російського полону повернулися 11 \"азовців\"",
+            "lemmatized_headline": "з російський полон повернутися 11 \" азовець \"",
+            "datetime": "2024-12-30T20:37+02:00",
+            "cl_lem_headline": "з російський полон повернутися 11 азовець "
+        }
+    },
+    {
+        "ID": 1214,
+        "article_data": {
+            "link": "https://suspilne.media/903219-u-berlini-policia-zatrimala-cotiroh-colovikiv-za-napad-na-predstavnikiv-sdpn/",
+            "headline": "У Берліні поліція затримала чотирьох чоловіків за напад на представників СДПН",
+            "lemmatized_headline": "у берлін поліція затримати чотири чоловік за напад на представник сдпн",
+            "datetime": "2024-12-15T22:27+02:00",
+            "cl_lem_headline": "у берлін поліція затримати чотири чоловік за напад на представник сдпн"
+        }
+    },
+    {
+        "ID": 1120,
+        "article_data": {
+            "link": "https://suspilne.media/904171-na-fronti-za-dobu-vidbulosa-245-boezitknen-armia-rf-vtratila-1600-vijskovih-genstab/",
+            "headline": "На фронті за добу відбулося 245 боєзіткнень, армія РФ втратила 1600 військових — Генштаб",
+            "lemmatized_headline": "на фронт за доба відбутися 245 боєзіткнення , армія рф втратити 1600 військовий — генштаб",
+            "datetime": "2024-12-17T09:30+02:00",
+            "cl_lem_headline": "на фронт за доба відбутися 245 боєзіткнення армія рф втратити 1600 військовий генштаб"
+        }
+    },
+    {
+        "ID": 1504,
+        "article_data": {
+            "link": "https://suspilne.media/900399-koalicia-povstanciv-aki-same-ugrupovanna-vouvali-proti-asada-ta-ak-voni-vzaemodiut-miz-sobou/",
+            "headline": "Коаліція повстанців: які саме угруповання воювали проти Асада та як вони взаємодіють між собою",
+            "lemmatized_headline": "коаліція повстанець : який самий угруповання воювати проти асад та як вони взаємодіяти між себе",
+            "datetime": "2024-12-11T19:01+02:00",
+            "cl_lem_headline": "коаліція повстанець який самий угруповання воювати проти асад та як вони взаємодіяти між себе"
+        }
+    },
+    {
+        "ID": 953,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/905893-u-cornomu-ta-azovskomu-morah-19-grudna-nemae-rosijskih-nosiiv-kalibriv-vms-zsu/",
+            "headline": "У Чорному та Азовському морях 19 грудня немає російських носіїв \"Калібрів\" — ВМС ЗСУ",
+            "lemmatized_headline": "у чорний та азовський море 19 грудень немає російський носій \" калібр \" — вмс зсу",
+            "datetime": "2024-12-19T08:10+02:00",
+            "cl_lem_headline": "у чорний та азовський море 19 грудень немає російський носій калібр вмс зсу"
+        }
+    },
+    {
+        "ID": 109,
+        "article_data": {
+            "link": "https://suspilne.media/913883-fico-u-vidkritomu-listi-poskarzivsa-kerivnictvu-es-na-zelenskogo/",
+            "headline": "Фіцо у відкритому листі поскаржився керівництву ЄС на Зеленського",
+            "lemmatized_headline": "фіцо у відкритий лист поскаржитися керівництво єс на зеленський",
+            "datetime": "2024-12-30T09:11+02:00",
+            "cl_lem_headline": "фіцо у відкритий лист поскаржитися керівництво єс на зеленський"
+        }
+    },
+    {
+        "ID": 1476,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/900543-minoboroni-rf-zaavilo-so-nad-krimom-vnoci-ppo-zbila-visim-bezpilotnikiv/",
+            "headline": "Міноборони РФ заявило, що над Кримом вночі ППО збила вісім безпілотників",
+            "lemmatized_headline": "міноборони рф заявити , що над крим вночі ппо збити вісім безпілотник",
+            "datetime": "2024-12-12T09:12+02:00",
+            "cl_lem_headline": "міноборони рф заявити що над крим вночі ппо збити вісім безпілотник"
+        }
+    },
+    {
+        "ID": 2555,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/889291-z-tot-hersonsini-na-pidkontrolnu-ukraini-teritoriu-evakuuvali-14-ricnu-divcinu/",
+            "headline": "З ТОТ Херсонщини на підконтрольну Україні територію евакуювали 14-річну дівчину",
+            "lemmatized_headline": "з тот херсонщина на підконтрольний україна територія евакуювати 14-річну дівчина",
+            "datetime": "2024-11-27T12:13+02:00",
+            "cl_lem_headline": "з тот херсонщина на підконтрольний україна територія евакуювати 14річну дівчина"
+        }
+    },
+    {
+        "ID": 923,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/906183-150-tisac-vijskovih-rf-na-troh-napramkah-recnik-osuv-hortica-rozpoviv-aki-rosijski-brigadi-vouut-na-doneccini/",
+            "headline": "150 тисяч військових РФ на трьох напрямках. Речник ОСУВ \"Хортиця\" розповів, які російські бригади воюють на Донеччині",
+            "lemmatized_headline": "150 тисяча військовий рф на три напрямок . речник осув \" хортиця \" розповісти , який російський бригада воювати на донеччина",
+            "datetime": "2024-12-19T14:26+02:00",
+            "cl_lem_headline": "150 тисяча військовий рф на три напрямок речник осув хортиця розповісти який російський бригада воювати на донеччина"
+        }
+    },
+    {
+        "ID": 664,
+        "article_data": {
+            "link": "https://suspilne.media/908629-rosia-vidae-soldatam-kndr-pidrobleni-dokumenti-sso/",
+            "headline": "Росія видає солдатам КНДР підроблені документи — ССО",
+            "lemmatized_headline": "росія видавати солдат кндр підроблений документ — ссо",
+            "datetime": "2024-12-22T22:15+02:00",
+            "cl_lem_headline": "росія видавати солдат кндр підроблений документ ссо"
+        }
+    },
+    {
+        "ID": 2592,
+        "article_data": {
+            "link": "https://suspilne.media/888941-glava-mzs-polsi-ukraina-ne-zaperecue-sodo-provedenna-eksgumacij-zertv-volinskoi-tragedii-na-svoij-teritorii/",
+            "headline": "Глава МЗС Польщі: Україна не заперечує щодо проведення ексгумацій жертв Волинської трагедії на своїй території",
+            "lemmatized_headline": "глава мзс польща : україна не заперечувати щодо проведення ексгумація жертва волинський трагедія на свій територія",
+            "datetime": "2024-11-26T21:26+02:00",
+            "cl_lem_headline": "глава мзс польща україна не заперечувати щодо проведення ексгумація жертва волинський трагедія на свій територія"
+        }
+    },
+    {
+        "ID": 2084,
+        "article_data": {
+            "link": "https://suspilne.media/894365-ssa-ta-nimeccina-ne-gotovi-nadavati-ukraini-rekomendaciu-sodo-zaprosenna-do-nato/",
+            "headline": "США та Німеччина не готові надавати Україні рекомендацію щодо запрошення до НАТО",
+            "lemmatized_headline": "сша та німеччина не готовий надавати україна рекомендація щодо запрошення до нато",
+            "datetime": "2024-12-03T22:58+02:00",
+            "cl_lem_headline": "сша та німеччина не готовий надавати україна рекомендація щодо запрошення до нато"
+        }
+    },
+    {
+        "ID": 1326,
+        "article_data": {
+            "link": "https://suspilne.media/902279-edinij-kandidat-na-viborah-prezidenta-gruzii-hto-takij-miheil-kavelasvili-akogo-nominuvala-na-posadu-gruzinska-mria/",
+            "headline": "Єдиний кандидат на виборах президента Грузії: хто такий Міхеїл Кавелашвілі, якого номінувала на посаду \"Грузинська мрія\"",
+            "lemmatized_headline": "єдиний кандидат на вибори президент грузія : хто такий міхеїл кавелашвілі , який номінувати на посада \" грузинський мрія \"",
+            "datetime": "2024-12-13T21:53+02:00",
+            "cl_lem_headline": "єдиний кандидат на вибори президент грузія хто такий міхеїл кавелашвілі який номінувати на посада грузинський мрія "
+        }
+    },
+    {
+        "ID": 1984,
+        "article_data": {
+            "link": "https://suspilne.media/895355-sili-ppo-vnoci-zbili-30-bezpilotnikiv/",
+            "headline": "Сили ППО вночі збили 30 безпілотників",
+            "lemmatized_headline": "сила ппо вночі збити 30 безпілотник",
+            "datetime": "2024-12-05T09:31+02:00",
+            "cl_lem_headline": "сила ппо вночі збити 30 безпілотник"
+        }
+    },
+    {
+        "ID": 2513,
+        "article_data": {
+            "link": "https://suspilne.media/889847-avtor-mirnogo-planu-kritik-nato-so-vidomo-pro-kelloga-akij-moze-stati-specposlannikom-z-pitan-ukraini-ta-rf/",
+            "headline": "Автор \"мирного плану\", критик НАТО — що відомо про Келлога, який може стати спецпосланником з питань України та РФ",
+            "lemmatized_headline": "автор \" мирний план \" , критик нато — що відомо про келлог , який могти стати спецпосланник з питання україна та рф",
+            "datetime": "2024-11-27T22:35+02:00",
+            "cl_lem_headline": "автор мирний план критик нато що відомо про келлог який могти стати спецпосланник з питання україна та рф"
+        }
+    },
+    {
+        "ID": 1022,
+        "article_data": {
+            "link": "https://suspilne.media/905225-u-fsb-stverdzuut-so-zatrimali-jmovirnogo-vbivcu-rosijskogo-generala-kirilova/",
+            "headline": "У ФСБ стверджують, що затримали ймовірного вбивцю російського генерала Кирилова",
+            "lemmatized_headline": "у фсб стверджувати , що затримати ймовірний вбивця російський генерал кирилов",
+            "datetime": "2024-12-18T11:28+02:00",
+            "cl_lem_headline": "у фсб стверджувати що затримати ймовірний вбивця російський генерал кирилов"
+        }
+    },
+    {
+        "ID": 1894,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/896309-v-okupovanih-lugansku-ta-donecku-privitali-zbrojni-sili/",
+            "headline": "В окупованих Луганську та Донецьку привітали Збройні Сили України",
+            "lemmatized_headline": "в окупований луганськ та донецьк привітати збройний сила україна",
+            "datetime": "2024-12-06T11:33+02:00",
+            "cl_lem_headline": "в окупований луганськ та донецьк привітати збройний сила україна"
+        }
+    },
+    {
+        "ID": 1634,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/898747-ostannij-koncert-buv-u-mariupoli-solist-ansamblu-zsu-ismail-kurt-umer-rozpoviv-pro-tvorcist-pid-cas-vijni/",
+            "headline": "Соліст ансамблю ЗСУ Ісмаїл Курт-Умер розповів, як музика допомагає Україні на фронті та в дипломатії",
+            "lemmatized_headline": "соліст ансамбль зсу ісмаїл курт - умер розповісти , як музика допомагати україна на фронт та в дипломатія",
+            "datetime": "2024-12-10T10:00+02:00",
+            "cl_lem_headline": "соліст ансамбль зсу ісмаїл курт умер розповісти як музика допомагати україна на фронт та в дипломатія"
+        }
+    },
+    {
+        "ID": 1888,
+        "article_data": {
+            "link": "https://suspilne.media/896397-nacalnika-nacionalnoi-akademii-suhoputnih-vijsk-tkacuka-zvilnat-minoboroni/",
+            "headline": "Начальника Національної академії сухопутних військ Ткачука звільнять — Міноборони",
+            "lemmatized_headline": "начальник національний академія сухопутний військо ткачук звільнити — міноборони",
+            "datetime": "2024-12-06T12:34+02:00",
+            "cl_lem_headline": "начальник національний академія сухопутний військо ткачук звільнити міноборони"
+        }
+    },
+    {
+        "ID": 1676,
+        "article_data": {
+            "link": "https://suspilne.media/898537-zelenskij-i-merc-pidtrimali-stvorenna-kontaktnoi-grupi-dla-formuvanna-pozicii-evropi-pro-zakincenna-vijni/",
+            "headline": "Зеленський і Мерц підтримали створення Контактної групи для формування позиції Європи про закінчення війни",
+            "lemmatized_headline": "зеленський і мерц підтримати створення контактний група для формування позиція європа про закінчення війна",
+            "datetime": "2024-12-09T16:46+02:00",
+            "cl_lem_headline": "зеленський і мерц підтримати створення контактний група для формування позиція європа про закінчення війна"
+        }
+    },
+    {
+        "ID": 2154,
+        "article_data": {
+            "link": "https://suspilne.media/893577-genstab-na-fronti-za-dobu-201-bojove-zitknenna-rf-vtratila-1780-vijskovih/",
+            "headline": "Генштаб: на фронті за добу 201 бойове зіткнення, РФ втратила 1780 військових",
+            "lemmatized_headline": "генштаб : на фронт за доба 201 бойовий зіткнення , рф втратити 1780 військовий",
+            "datetime": "2024-12-03T08:13+02:00",
+            "cl_lem_headline": "генштаб на фронт за доба 201 бойовий зіткнення рф втратити 1780 військовий"
+        }
+    },
+    {
+        "ID": 1959,
+        "article_data": {
+            "link": "https://suspilne.media/895705-u-sirii-povstanci-uvijsli-u-misto-hama-reuters/",
+            "headline": "У Сирії повстанці увійшли у місто Хама — Reuters",
+            "lemmatized_headline": "у сирія повстанець увійти у місто хама — reuters",
+            "datetime": "2024-12-05T14:55+02:00",
+            "cl_lem_headline": "у сирія повстанець увійти у місто хама reuters"
+        }
+    },
+    {
+        "ID": 1430,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/901179-sirskij-sodobi-rf-vtracae-na-pokrovskomu-fronti-blizko-400-soldativ/",
+            "headline": "Сирський назвав, скільки щодоби росіяни втрачають солдатів на Покровському фронті",
+            "lemmatized_headline": "сирський назвати , скільки щодоби росіянин втрачати солдат на покровський фронт",
+            "datetime": "2024-12-12T17:19+02:00",
+            "cl_lem_headline": "сирський назвати скільки щодоби росіянин втрачати солдат на покровський фронт"
+        }
+    },
+    {
+        "ID": 217,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/913097-aksonov-cerez-rozliv-nafti-bila-kercenskoi-protoki-vviv-rezim-tehnogennoi-nadzvicajnoi-situacii/",
+            "headline": "В Криму через розлив нафти біля Керченської протоки ввели режим \"техногенної надзвичайної ситуації\"",
+            "lemmatized_headline": "в крим через розлив нафта біля керченський протока ввести режим \" техногенний надзвичайний ситуація \"",
+            "datetime": "2024-12-28T12:33+02:00",
+            "cl_lem_headline": "в крим через розлив нафта біля керченський протока ввести режим техногенний надзвичайний ситуація "
+        }
+    },
+    {
+        "ID": 604,
+        "article_data": {
+            "link": "https://suspilne.media/odesa/909205-informacia-pro-vbivstvo-civilnogo-colovika-spivrobitnikami-tck-v-odesi-e-fejkom-cpd/",
+            "headline": "Інформація про вбивство цивільного чоловіка співробітниками ТЦК в Одесі є фейком — ЦПД",
+            "lemmatized_headline": "інформація про вбивство цивільний чоловік співробітник тцк в одеса бути фейк — цпд",
+            "datetime": "2024-12-23T16:00+02:00",
+            "cl_lem_headline": "інформація про вбивство цивільний чоловік співробітник тцк в одеса бути фейк цпд"
+        }
+    },
+    {
+        "ID": 314,
+        "article_data": {
+            "link": "https://suspilne.media/912017-u-norvegii-v-avtobusnij-avarii-zaginuli-troe-ludej/",
+            "headline": "У Норвегії в автобусній аварії загинули троє людей",
+            "lemmatized_headline": "у норвегія в автобусний аварія загинути троє людина",
+            "datetime": "2024-12-27T00:56+02:00",
+            "cl_lem_headline": "у норвегія в автобусний аварія загинути троє людина"
+        }
+    },
+    {
+        "ID": 933,
+        "article_data": {
+            "link": "https://suspilne.media/culture/906029-usik-vijsov-na-vidkrite-trenuvanna-pid-zivij-suprovid-artema-pivovarova-video/",
+            "headline": "Усик вийшов на відкрите тренування під живий супровід Артема Пивоварова",
+            "lemmatized_headline": "усик вийти на відкритий тренування під живий супровід артем пивоваров",
+            "datetime": "2024-12-19T12:43+02:00",
+            "cl_lem_headline": "усик вийти на відкритий тренування під живий супровід артем пивоваров"
+        }
+    },
+    {
+        "ID": 2047,
+        "article_data": {
+            "link": "https://suspilne.media/894719-dania-nadast-ukraini-6-mln-evro-na-vidnovlenna-energetiki/",
+            "headline": "Данія надасть Україні 6 млн євро на відновлення енергетики",
+            "lemmatized_headline": "данія надати україна 6 млн євро на відновлення енергетика",
+            "datetime": "2024-12-04T13:42+02:00",
+            "cl_lem_headline": "данія надати україна 6 млн євро на відновлення енергетика"
+        }
+    },
+    {
+        "ID": 783,
+        "article_data": {
+            "link": "https://suspilne.media/907687-premer-ministr-slovaccini-zaaviv-so-zelenskij-nibito-proponuvav-jomu-grosi-za-clenstvo-v-nato/",
+            "headline": "Премʼєр-міністр Словаччини заявив, що Зеленський нібито пропонував йому гроші за членство в НАТО",
+            "lemmatized_headline": "премʼєр - міністр словаччина заявити , що зеленський нібито пропонувати він гроші за членство в нато",
+            "datetime": "2024-12-21T07:26+02:00",
+            "cl_lem_headline": "премʼєр міністр словаччина заявити що зеленський нібито пропонувати він гроші за членство в нато"
+        }
+    },
+    {
+        "ID": 1565,
+        "article_data": {
+            "link": "https://suspilne.media/899659-u-pivdennij-korei-arestuvali-nacalnika-policii-na-tli-krizi-dovkola-impicmentu-prezidenta/",
+            "headline": "У Південній Кореї арештували начальника поліції на тлі кризи довкола імпічменту президента",
+            "lemmatized_headline": "у південний корея арештувати начальник поліція на тло криза довкола імпічмент президент",
+            "datetime": "2024-12-11T05:42+02:00",
+            "cl_lem_headline": "у південний корея арештувати начальник поліція на тло криза довкола імпічмент президент"
+        }
+    },
+    {
+        "ID": 1194,
+        "article_data": {
+            "link": "https://suspilne.media/903321-bundestag-sogodni-golosuvatime-za-votum-doviri-do-uradu-solca/",
+            "headline": "Бундестаг сьогодні голосуватиме за вотум довіри до уряду Шольца",
+            "lemmatized_headline": "бундестаг сьогодні голосувати за вотум довіра до уряд шольц",
+            "datetime": "2024-12-16T09:56+02:00",
+            "cl_lem_headline": "бундестаг сьогодні голосувати за вотум довіра до уряд шольц"
+        }
+    },
+    {
+        "ID": 1502,
+        "article_data": {
+            "link": "https://suspilne.media/900411-britanska-armia-viprobuvala-novu-lazernu-zbrou-proti-droniv/",
+            "headline": "Британська армія випробувала нову лазерну зброю проти дронів",
+            "lemmatized_headline": "британський армія випробувати новий лазерний зброя проти дрон",
+            "datetime": "2024-12-11T19:36+02:00",
+            "cl_lem_headline": "британський армія випробувати новий лазерний зброя проти дрон"
+        }
+    },
+    {
+        "ID": 729,
+        "article_data": {
+            "link": "https://suspilne.media/mykolaiv/908143-ataka-bezpilotnikami-na-mikolaiv-u-misti-prolunali-vibuhi/",
+            "headline": "Атака безпілотниками на Миколаїв: у місті пролунали вибухи",
+            "lemmatized_headline": "атака безпілотник на миколаїв : у місто пролунали вибух",
+            "datetime": "2024-12-21T21:49+02:00",
+            "cl_lem_headline": "атака безпілотник на миколаїв у місто пролунали вибух"
+        }
+    },
+    {
+        "ID": 61,
+        "article_data": {
+            "link": "https://suspilne.media/914587-polsa-hoce-priskoriti-vstup-ukraini-v-es/",
+            "headline": "Польща хоче прискорити вступ України в ЄС",
+            "lemmatized_headline": "польща хотіти прискорити вступ україна в єс",
+            "datetime": "2024-12-30T18:29+02:00",
+            "cl_lem_headline": "польща хотіти прискорити вступ україна в єс"
+        }
+    },
+    {
+        "ID": 684,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/908445-rozstril-polonenih-na-doneccini-u-110-brigadi-rozpovili-pro-obstavini-voennogo-zlocinu-rf/",
+            "headline": "Розстріл полонених на Донеччині: у 110 бригаді розповіли про обставини воєнного злочину РФ",
+            "lemmatized_headline": "розстріл полонений на донеччина : у 110 бригада розповісти про обставина воєнний злочин рф",
+            "datetime": "2024-12-22T15:07+02:00",
+            "cl_lem_headline": "розстріл полонений на донеччина у 110 бригада розповісти про обставина воєнний злочин рф"
+        }
+    },
+    {
+        "ID": 1268,
+        "article_data": {
+            "link": "https://suspilne.media/902781-zasnovnik-ispanskoi-merezi-odagu-mango-zaginuv-vnaslidok-nesasnogo-vipadku/",
+            "headline": "Засновник іспанської мережі одягу Mango загинув внаслідок нещасного випадку",
+            "lemmatized_headline": "засновник іспанський мережа одяг mango загинути внаслідок нещасний випадок",
+            "datetime": "2024-12-14T23:26+02:00",
+            "cl_lem_headline": "засновник іспанський мережа одяг mango загинути внаслідок нещасний випадок"
+        }
+    },
+    {
+        "ID": 262,
+        "article_data": {
+            "link": "https://suspilne.media/911701-kurska-operacia-nastup-na-harkivsinu-boi-za-toreck-casiv-ar-ta-pokrovsk-rik-na-frontah/",
+            "headline": "Курська операція, наступ на Харківщину, бої за Торецьк, Часів Яр та Покровськ. Рік на фронтах",
+            "lemmatized_headline": "курський операція , наступ на харківщина , бій за торецьк , час яр та покровськ . рік на фронт",
+            "datetime": "2024-12-27T16:56+02:00",
+            "cl_lem_headline": "курський операція наступ на харківщина бій за торецьк час яр та покровськ рік на фронт"
+        }
+    },
+    {
+        "ID": 82,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/914265-na-timcasovo-zahoplenij-zaporizkij-aes-okupanti-ne-zapustili-vidremontovanij-nimi-suntuucij-reaktor-energoatom/",
+            "headline": "На тимчасово захопленій Запорізькій АЕС окупанти не запустили відремонтований ними шунтуючий реактор – Енергоатом",
+            "lemmatized_headline": "на тимчасово захоплений запорізький аес окупант не запустити відремонтований вони шунтуючий реактор – енергоатом",
+            "datetime": "2024-12-30T14:44+02:00",
+            "cl_lem_headline": "на тимчасово захоплений запорізький аес окупант не запустити відремонтований вони шунтуючий реактор енергоатом"
+        }
+    },
+    {
+        "ID": 1133,
+        "article_data": {
+            "link": "https://suspilne.media/904095-12-evropejskih-krain-borotimutsa-z-tinovim-flotom-rosii-zaava/",
+            "headline": "12 європейських країн боротимуться з тіньовим флотом Росії — заява",
+            "lemmatized_headline": "12 європейський країна боротися з тіньовий флот росія — заява",
+            "datetime": "2024-12-17T01:19+02:00",
+            "cl_lem_headline": "12 європейський країна боротися з тіньовий флот росія заява"
+        }
+    },
+    {
+        "ID": 350,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/911681-rosia-vdarila-molnieu-po-harkovu-26-grudna-so-vidomo-pro-naslidki/",
+            "headline": "Росія вдарила \"Молнією\" по Харкову 26 грудня: що відомо про наслідки",
+            "lemmatized_headline": "росія вдарити \" молнією \" по харків 26 грудень : що відомо про наслідок",
+            "datetime": "2024-12-26T15:46+02:00",
+            "cl_lem_headline": "росія вдарити молнією по харків 26 грудень що відомо про наслідок"
+        }
+    },
+    {
+        "ID": 1540,
+        "article_data": {
+            "link": "https://suspilne.media/chernihiv/899899-ditej-aki-potrapili-pid-obstril-u-girsku-na-cernigivsini-vezut-na-reabilitaciu-do-litvi/",
+            "headline": "Дітей, які потрапили під обстріл у Гірську на Чернігівщині, везуть на реабілітацію до Литви",
+            "lemmatized_headline": "дитина , який потрапити під обстріл у гірську на чернігівщина , везти на реабілітація до литва",
+            "datetime": "2024-12-11T12:33+02:00",
+            "cl_lem_headline": "дитина який потрапити під обстріл у гірську на чернігівщина везти на реабілітація до литва"
+        }
+    },
+    {
+        "ID": 1465,
+        "article_data": {
+            "link": "https://suspilne.media/900707-u-minoboroni-rozasnili-cim-vidriznaetsa-posilenij-suhpajok-zsu-vid-zvicajnogo/",
+            "headline": "У Міноборони роз'яснили, чим відрізняється посилений сухпайок ЗСУ від звичайного",
+            "lemmatized_headline": "у міноборони роз'яснити , що відрізнятися посилений сухпайок зсу від звичайний",
+            "datetime": "2024-12-12T11:31+02:00",
+            "cl_lem_headline": "у міноборони розяснити що відрізнятися посилений сухпайок зсу від звичайний"
+        }
+    },
+    {
+        "ID": 2378,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/891223-vijskovi-rf-zavdali-raketnogo-udaru-po-berislavskomu-rajonu-na-hersonsini-e-poranena/",
+            "headline": "Військові РФ завдали ракетного удару по Бериславському району на Херсонщині. Є поранена",
+            "lemmatized_headline": "військовий рф завдати ракетний удар по бериславський район на херсонщина . бути поранений",
+            "datetime": "2024-11-29T13:07+02:00",
+            "cl_lem_headline": "військовий рф завдати ракетний удар по бериславський район на херсонщина бути поранений"
+        }
+    },
+    {
+        "ID": 37,
+        "article_data": {
+            "link": "https://suspilne.media/914739-al-masirah-ssa-ta-velika-britania-vdarili-po-obektah-husitiv/",
+            "headline": "Al Masirah: США та Велика Британія вдарили по об'єктах хуситів",
+            "lemmatized_headline": "al masirah : сша та великий британія вдарити по об'єкт хусит",
+            "datetime": "2024-12-31T03:45+02:00",
+            "cl_lem_headline": "al masirah сша та великий британія вдарити по обєкт хусит"
+        }
+    },
+    {
+        "ID": 2238,
+        "article_data": {
+            "link": "https://suspilne.media/892721-zimova-epidtrimka-zaavki-podali-vze-ponad-21-mln-ludej/",
+            "headline": "Зимова єПідтримка: заявки подали вже понад 2,1 млн людей",
+            "lemmatized_headline": "зимовий єпідтримка : заявка подати вже понад 2,1 млн людина",
+            "datetime": "2024-12-02T02:25+02:00",
+            "cl_lem_headline": "зимовий єпідтримка заявка подати вже понад 21 млн людина"
+        }
+    },
+    {
+        "ID": 187,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/909951-ak-taktika-podvijnih-udariv-rf-zminila-robotu-ekstrenih-sluzb-u-harkovi-u-2024-roci/",
+            "headline": "Як тактика подвійних ударів РФ змінила роботу екстрених служб у Харкові у 2024 році",
+            "lemmatized_headline": "як тактика подвійний удар рф змінити робота екстрений служба у харко у 2024 рік",
+            "datetime": "2024-12-28T20:24+02:00",
+            "cl_lem_headline": "як тактика подвійний удар рф змінити робота екстрений служба у харко у 2024 рік"
+        }
+    },
+    {
+        "ID": 616,
+        "article_data": {
+            "link": "https://suspilne.media/lviv/909073-u-lvovi-prezentuvali-najbilsij-v-ukraini-trizub-z-diduhiv/",
+            "headline": "У Львові презентували найбільший в Україні тризуб з дідухів",
+            "lemmatized_headline": "у львов презентувати найбільший в україна тризуб з дідух",
+            "datetime": "2024-12-23T13:41+02:00",
+            "cl_lem_headline": "у львов презентувати найбільший в україна тризуб з дідух"
+        }
+    },
+    {
+        "ID": 2211,
+        "article_data": {
+            "link": "https://suspilne.media/893023-soldatami-kndr-u-rosii-komanduut-tri-generali-gur/",
+            "headline": "Солдатами КНДР у Росії командують три генерали — ГУР",
+            "lemmatized_headline": "солдат кндр у росія командувати три генерал — гур",
+            "datetime": "2024-12-02T12:55+02:00",
+            "cl_lem_headline": "солдат кндр у росія командувати три генерал гур"
+        }
+    },
+    {
+        "ID": 392,
+        "article_data": {
+            "link": "https://suspilne.media/911217-sili-ppo-znisili-20-droniv-kamikadze/",
+            "headline": "Сили ППО знищили 20 дронів-камікадзе",
+            "lemmatized_headline": "сила ппо знищити 20 дрон - камікадзе",
+            "datetime": "2024-12-26T09:29+02:00",
+            "cl_lem_headline": "сила ппо знищити 20 дрон камікадзе"
+        }
+    },
+    {
+        "ID": 2379,
+        "article_data": {
+            "link": "https://suspilne.media/891175-dla-biznesu-akij-importue-abo-sam-viroblae-60-elektriki-vid-svogo-obsagu-spozivanna-svitlo-ne-vimikatimut-smigal/",
+            "headline": "Для бізнесу, який імпортує, або сам виробляє 60% електрики від свого обсягу споживання, світло не вимикатимуть — Шмигаль",
+            "lemmatized_headline": "для бізнес , який імпортувати , або сам виробляти 60 % електрика від свій обсяг споживання , світло не вимикати — шмигаль",
+            "datetime": "2024-11-29T13:00+02:00",
+            "cl_lem_headline": "для бізнес який імпортувати або сам виробляти 60 електрика від свій обсяг споживання світло не вимикати шмигаль"
+        }
+    },
+    {
+        "ID": 196,
+        "article_data": {
+            "link": "https://suspilne.media/vinnytsia/913227-najkrasij-podarunok-svoboda-sina-u-vinnici-projsla-akcia-na-pidtrimku-vijskovopolonenih-ta-zniklih-bezvisti-voiniv/",
+            "headline": "\"Найкращий подарунок — свобода сина\": у Вінниці пройшла акція на підтримку військовополонених та зниклих безвісти воїнів",
+            "lemmatized_headline": "\" найкращий подарунок — свобода син \" : у вінниця пройти акція на підтримка військовополонених та зниклий безвість воїн",
+            "datetime": "2024-12-28T18:04+02:00",
+            "cl_lem_headline": " найкращий подарунок свобода син у вінниця пройти акція на підтримка військовополонених та зниклий безвість воїн"
+        }
+    },
+    {
+        "ID": 1654,
+        "article_data": {
+            "link": "https://suspilne.media/898777-ssa-ta-velikobritania-vveli-sankcii-sodo-nezakonnoi-torgivli-rosijskim-zolotom/",
+            "headline": "США та Велика Британія ввели санкції щодо незаконної торгівлі російським золотом",
+            "lemmatized_headline": "сша та великий британія ввести санкція щодо незаконний торгівля російський золото",
+            "datetime": "2024-12-09T23:07+02:00",
+            "cl_lem_headline": "сша та великий британія ввести санкція щодо незаконний торгівля російський золото"
+        }
+    },
+    {
+        "ID": 2229,
+        "article_data": {
+            "link": "https://suspilne.media/ternopil/892789-ataka-droniv-v-ternopoli-v-oblasnij-vijskovij-administracii-povidomili-novi-podrobici/",
+            "headline": "Атака дронів в Тернополі: в обласній військовій адміністрації повідомили нові подробиці",
+            "lemmatized_headline": "атака дрон в тернопіль : в обласний військовий адміністрація повідомити новий подробиця",
+            "datetime": "2024-12-02T09:19+02:00",
+            "cl_lem_headline": "атака дрон в тернопіль в обласний військовий адміністрація повідомити новий подробиця"
+        }
+    },
+    {
+        "ID": 1924,
+        "article_data": {
+            "link": "https://suspilne.media/896087-do-kinca-lutogo-u-rezerv-stane-dostupnou-funkcia-elektronnih-napravlen-na-vlk-minoboroni/",
+            "headline": "До кінця лютого у \"Резерв+\" стане доступною функція електронних направлень на ВЛК — Міноборони",
+            "lemmatized_headline": "до кінець лютий у \" резерв+ \" стати доступний функція електронний направлення на влк — міноборони",
+            "datetime": "2024-12-05T23:01+02:00",
+            "cl_lem_headline": "до кінець лютий у резерв стати доступний функція електронний направлення на влк міноборони"
+        }
+    },
+    {
+        "ID": 431,
+        "article_data": {
+            "link": "https://suspilne.media/910791-sbu-znisila-sklad-boepripasiv-na-poligoni-kadamovskij-u-rostovskij-oblasti-rf/",
+            "headline": "СБУ знищила склад боєприпасів на полігоні \"Кадамовський\" у Ростовській області РФ",
+            "lemmatized_headline": "сбу знищити склад боєприпас на полігон \" кадамовський \" у ростовський область рф",
+            "datetime": "2024-12-25T14:27+02:00",
+            "cl_lem_headline": "сбу знищити склад боєприпас на полігон кадамовський у ростовський область рф"
+        }
+    },
+    {
+        "ID": 847,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/907029-okupovana-zaes-vtratila-pidklucenna-do-odniei-z-linij-zivlenna-minenergo/",
+            "headline": "Окупована ЗАЕС втратила підключення до однієї з ліній живлення — Міненерго",
+            "lemmatized_headline": "окупований заес втратити підключення до однієї з лінія живлення — міненерго",
+            "datetime": "2024-12-20T12:43+02:00",
+            "cl_lem_headline": "окупований заес втратити підключення до однієї з лінія живлення міненерго"
+        }
+    },
+    {
+        "ID": 1783,
+        "article_data": {
+            "link": "https://suspilne.media/897469-mksk-obicae-vidkritij-vidbir-kerivnika-centru-strategicnih-komunikacij-bikova-zvilnili/",
+            "headline": "МКСК обіцяє відкритий відбір керівника Центру стратегічних комунікацій, Бикова звільнили",
+            "lemmatized_headline": "мкск обіцяти відкритий відбір керівник центр стратегічний комунікація , биков звільнити",
+            "datetime": "2024-12-07T23:06+02:00",
+            "cl_lem_headline": "мкск обіцяти відкритий відбір керівник центр стратегічний комунікація биков звільнити"
+        }
+    },
+    {
+        "ID": 1389,
+        "article_data": {
+            "link": "https://suspilne.media/khmelnytskiy/901427-na-hmelniccini-pid-cas-povitranoi-trivogi-13-grudna-zbili-sist-raket/",
+            "headline": "На Хмельниччині під час повітряної тривоги 13 грудня збили шість ракет",
+            "lemmatized_headline": "на хмельниччина під час повітряний тривога 13 грудень збити шість ракета",
+            "datetime": "2024-12-13T08:10+02:00",
+            "cl_lem_headline": "на хмельниччина під час повітряний тривога 13 грудень збити шість ракета"
+        }
+    },
+    {
+        "ID": 868,
+        "article_data": {
+            "link": "https://suspilne.media/dnipro/906755-vlucanna-u-budinok-v-krivomu-rozi-obstrili-nikopolsini-zbitij-bezpilotnik-bezpekova-situacia-na-dnipropetrovsini/",
+            "headline": "Влучання у будинок в Кривому Розі, обстріли Нікопольщини, збитий безпілотник. Безпекова ситуація на Дніпропетровщині",
+            "lemmatized_headline": "влучання у будинок в кривий ріг , обстріл нікопольщина , збитий безпілотник . безпековий ситуація на дніпропетровщина",
+            "datetime": "2024-12-20T07:50+02:00",
+            "cl_lem_headline": "влучання у будинок в кривий ріг обстріл нікопольщина збитий безпілотник безпековий ситуація на дніпропетровщина"
+        }
+    },
+    {
+        "ID": 1461,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/900695-dobrovilno-dolucilisa-do-okupacijnogo-mvs-rf-na-zaporizzi-zasudili-za-kolaboracionizm-simoh-gromadan/",
+            "headline": "Добровільно долучилися до окупаційного МВС РФ: на Запоріжжі засудили за колабораціонізм сімох громадян",
+            "lemmatized_headline": "добровільно долучитися до окупаційний мвс рф : на запоріжжя засудити за колабораціонізм сім громадянин",
+            "datetime": "2024-12-12T12:05+02:00",
+            "cl_lem_headline": "добровільно долучитися до окупаційний мвс рф на запоріжжя засудити за колабораціонізм сім громадянин"
+        }
+    },
+    {
+        "ID": 1044,
+        "article_data": {
+            "link": "https://suspilne.media/905007-sirskij-nazvav-oblasti-de-musat-posiliti-robotu-z-budivnictva-fortifikacij/",
+            "headline": "Сирський назвав місця, де мусять посилити роботу з будівництва фортифікацій",
+            "lemmatized_headline": "сирський назвати місце , де мусити посилити робота з будівництво фортифікація",
+            "datetime": "2024-12-18T00:37+02:00",
+            "cl_lem_headline": "сирський назвати місце де мусити посилити робота з будівництво фортифікація"
+        }
+    },
+    {
+        "ID": 973,
+        "article_data": {
+            "link": "https://suspilne.media/905803-gensek-nato-ta-zelenskij-rozpovili-pro-so-govoritimut-pid-cas-zustrici-u-brusseli/",
+            "headline": "Генсек НАТО та Зеленський розповіли, про що говоритимуть під час зустрічі у Брюсселі",
+            "lemmatized_headline": "генсек нато та зеленський розповісти , про що говорити під час зустріч у брюссель",
+            "datetime": "2024-12-18T21:45+02:00",
+            "cl_lem_headline": "генсек нато та зеленський розповісти про що говорити під час зустріч у брюссель"
+        }
+    },
+    {
+        "ID": 523,
+        "article_data": {
+            "link": "https://suspilne.media/sumy/909949-armia-rf-povtorno-vdarila-po-fermi-u-konotopskomu-rajoni-koli-ratuvalniki-likvidovuvali-pozezu/",
+            "headline": "Армія РФ повторно вдарила по фермі у Конотопському районі, коли рятувальники ліквідовували пожежу",
+            "lemmatized_headline": "армія рф повторно вдарити по ферма у конотопський район , коли рятувальник ліквідовувати пожежа",
+            "datetime": "2024-12-24T13:41+02:00",
+            "cl_lem_headline": "армія рф повторно вдарити по ферма у конотопський район коли рятувальник ліквідовувати пожежа"
+        }
+    },
+    {
+        "ID": 2416,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/890825-na-kupanskomu-napramku-znisili-cotiri-rosijski-tanki-ta-se-pat-odinic-tehniki/",
+            "headline": "На Куп'янському напрямку знищили чотири російські танки та ще п'ять одиниць техніки",
+            "lemmatized_headline": "на куп'янський напрямок знищити чотири російський танок та ще п'ять одиниця техніка",
+            "datetime": "2024-11-28T22:41+02:00",
+            "cl_lem_headline": "на купянський напрямок знищити чотири російський танок та ще пять одиниця техніка"
+        }
+    },
+    {
+        "ID": 324,
+        "article_data": {
+            "link": "https://suspilne.media/911951-zelenskij-priznaciv-predstavnika-ukraini-pri-miznarodnih-organizaciah-u-vidni/",
+            "headline": "Зеленський призначив представника України при міжнародних організаціях у Відні",
+            "lemmatized_headline": "зеленський призначити представник україна при міжнародний організація у відень",
+            "datetime": "2024-12-26T20:42+02:00",
+            "cl_lem_headline": "зеленський призначити представник україна при міжнародний організація у відень"
+        }
+    },
+    {
+        "ID": 1687,
+        "article_data": {
+            "link": "https://suspilne.media/898389-zelenskij-hoce-obgovoriti-z-bajdenom-zaprosenna-v-nato/",
+            "headline": "Зеленський хоче обговорити з Байденом запрошення в НАТО",
+            "lemmatized_headline": "зеленський хотіти обговорити з байден запрошення в нато",
+            "datetime": "2024-12-09T14:16+02:00",
+            "cl_lem_headline": "зеленський хотіти обговорити з байден запрошення в нато"
+        }
+    },
+    {
+        "ID": 2455,
+        "article_data": {
+            "link": "https://suspilne.media/890325-parlament-gruzii-zatverdiv-sklad-uradu-kraini/",
+            "headline": "Парламент Грузії затвердив склад уряду країни",
+            "lemmatized_headline": "парламент грузія затвердити склад уряд країна",
+            "datetime": "2024-11-28T13:41+02:00",
+            "cl_lem_headline": "парламент грузія затвердити склад уряд країна"
+        }
+    },
+    {
+        "ID": 1834,
+        "article_data": {
+            "link": "https://suspilne.media/896987-v-italii-zaarestuvali-cernicu-za-pidozrou-u-dopomozi-mafii/",
+            "headline": "В Італії заарештували черницю за підозрою у допомозі мафії",
+            "lemmatized_headline": "в італія заарештувати черниця за підозра у допомога мафія",
+            "datetime": "2024-12-07T02:57+02:00",
+            "cl_lem_headline": "в італія заарештувати черниця за підозра у допомога мафія"
+        }
+    },
+    {
+        "ID": 1069,
+        "article_data": {
+            "link": "https://suspilne.media/904769-kabmin-vidiliv-26-mlrd-griven-na-harcuvanna-ditej-u-pocatkovij-skoli/",
+            "headline": "Кабмін виділив 2,6 млрд гривень на харчування дітей у початковій школі",
+            "lemmatized_headline": "кабмін виділити 2,6 млрд гривня на харчування дитина у початковий школа",
+            "datetime": "2024-12-17T17:22+02:00",
+            "cl_lem_headline": "кабмін виділити 26 млрд гривня на харчування дитина у початковий школа"
+        }
+    },
+    {
+        "ID": 1141,
+        "article_data": {
+            "link": "https://suspilne.media/904057-zelenskij-pro-20-mlrd-vid-ssa-vze-u-svitovomu-banku/",
+            "headline": "Зеленський про 20 млрд від США: \"Вже у Світовому банку\"",
+            "lemmatized_headline": "зеленський про 20 млрд від сша : \" вже у світовий банк \"",
+            "datetime": "2024-12-16T21:45+02:00",
+            "cl_lem_headline": "зеленський про 20 млрд від сша вже у світовий банк "
+        }
+    },
+    {
+        "ID": 1600,
+        "article_data": {
+            "link": "https://suspilne.media/899269-u-g7-gotovi-pidtrimati-novij-urad-sirii-pisla-padinna-rezimu-asada-bloomberg/",
+            "headline": "У G7 готові підтримати новий уряд Сирії після падіння режиму Асада — Bloomberg",
+            "lemmatized_headline": "у g7 готовий підтримати новий уряд сирія після падіння режим асад — bloomberg",
+            "datetime": "2024-12-10T15:53+02:00",
+            "cl_lem_headline": "у g7 готовий підтримати новий уряд сирія після падіння режим асад bloomberg"
+        }
+    },
+    {
+        "ID": 1443,
+        "article_data": {
+            "link": "https://suspilne.media/900991-time-nazvav-trampa-ludinou-roku/",
+            "headline": "Журнал Time назвав Трампа \"людиною року\"",
+            "lemmatized_headline": "журнал time назвати трамп \" людина рок \"",
+            "datetime": "2024-12-12T14:48+02:00",
+            "cl_lem_headline": "журнал time назвати трамп людина рок "
+        }
+    },
+    {
+        "ID": 2315,
+        "article_data": {
+            "link": "https://suspilne.media/891935-u-mincifri-rozpovili-ak-zabronuvati-pracivnikiv-v-dii-z-1-grudna/",
+            "headline": "У Мінцифри розповіли, як забронювати працівників в \"Дії\" з 1 грудня",
+            "lemmatized_headline": "у мінцифри розповісти , як забронювати працівник в \" дія \" з 1 грудень",
+            "datetime": "2024-11-30T13:11+02:00",
+            "cl_lem_headline": "у мінцифри розповісти як забронювати працівник в дія з 1 грудень"
+        }
+    },
+    {
+        "ID": 2516,
+        "article_data": {
+            "link": "https://suspilne.media/889821-ssa-mozut-ne-vstignuti-vikoristati-ponad-65-mlrd-na-dopomogu-ukraini-do-zaversenna-prezidentskogo-terminu-bajdena/",
+            "headline": "США можуть не встигнути використати понад $6,5 млрд на допомогу Україні до завершення президентського терміну Байдена",
+            "lemmatized_headline": "сша могти не встигнути використати понад $ 6,5 млрд на допомога україна до завершення президентський термін байден",
+            "datetime": "2024-11-27T21:48+02:00",
+            "cl_lem_headline": "сша могти не встигнути використати понад 65 млрд на допомога україна до завершення президентський термін байден"
+        }
+    },
+    {
+        "ID": 1439,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/901035-u-zaporizzi-na-misci-raketnogo-udaru-po-medklinici-zaversili-posukovo-ratuvalni-roboti-11-zagiblih-ta-22-poranenih/",
+            "headline": "У Запоріжжі на місці ракетного удару по медклініці завершили пошуково-рятувальні роботи: 11 загиблих та 22 поранених",
+            "lemmatized_headline": "у запоріжжя на місце ракетний удар по медклініка завершити пошуково - рятувальний робот : 11 загиблих та 22 поранений",
+            "datetime": "2024-12-12T15:38+02:00",
+            "cl_lem_headline": "у запоріжжя на місце ракетний удар по медклініка завершити пошуково рятувальний робот 11 загиблих та 22 поранений"
+        }
+    },
+    {
+        "ID": 2172,
+        "article_data": {
+            "link": "https://suspilne.media/893485-ssa-rozcarovani-risennam-ukraini-ne-znizuvati-mobilizacijnij-vik-wp/",
+            "headline": "США розчаровані рішенням України не знижувати мобілізаційний вік — WP",
+            "lemmatized_headline": "сша розчарований рішення україна не знижувати мобілізаційний вік — wp",
+            "datetime": "2024-12-02T22:13+02:00",
+            "cl_lem_headline": "сша розчарований рішення україна не знижувати мобілізаційний вік wp"
+        }
+    },
+    {
+        "ID": 462,
+        "article_data": {
+            "link": "https://suspilne.media/kropyvnytskiy/910477-naslidki-masovanoi-rosijskoi-ataki-na-kirovogradsini-pozeza-gazovoi-trubi-budinku/",
+            "headline": "Пошкоджена газова труба, склад, вікна у будинках: наслідки масованої російської атаки на Кіровоградщині",
+            "lemmatized_headline": "пошкоджений газовий труба , склад , вікно у будинок : наслідок масований російський атака на кіровоградщина",
+            "datetime": "2024-12-25T09:35+02:00",
+            "cl_lem_headline": "пошкоджений газовий труба склад вікно у будинок наслідок масований російський атака на кіровоградщина"
+        }
+    },
+    {
+        "ID": 1282,
+        "article_data": {
+            "link": "https://suspilne.media/902645-mvs-gruzii-zakupilo-desatki-kamer-videosposterezenna-aki-zdatni-rozpiznavati-oblicca-ta-avtivki/",
+            "headline": "МВС Грузії закупило десятки камер відеоспостереження, які здатні розпізнавати обличчя та автівки",
+            "lemmatized_headline": "мвс грузія закупити десятка камера відеоспостереження , який здатний розпізнавати обличчя та автівка",
+            "datetime": "2024-12-14T17:25+02:00",
+            "cl_lem_headline": "мвс грузія закупити десятка камера відеоспостереження який здатний розпізнавати обличчя та автівка"
+        }
+    },
+    {
+        "ID": 1880,
+        "article_data": {
+            "link": "https://suspilne.media/dnipro/896491-bez-tepla-zalisautsa-443-budinki-cerez-zriv-opaluvalnogo-sezonu-u-krivomu-rozi-vidkrito-kriminalne-provadzenna/",
+            "headline": "Без тепла залишаються 443 будинки: через зрив опалювального сезону у Кривому Розі відкрито кримінальне провадження",
+            "lemmatized_headline": "без тепло залишатися 443 будинок : через зрив опалювальний сезон у кривий ріг відкрито кримінальний провадження",
+            "datetime": "2024-12-06T14:00+02:00",
+            "cl_lem_headline": "без тепло залишатися 443 будинок через зрив опалювальний сезон у кривий ріг відкрито кримінальний провадження"
+        }
+    },
+    {
+        "ID": 320,
+        "article_data": {
+            "link": "https://suspilne.media/911975-vr-vidradila-nardepa-kunickogo-do-ssa-na-tizden-ale-toj-ne-povernuvsa-shemi/",
+            "headline": "ВР відрядила нардепа Куницького до США на тиждень, але той не повернувся — \"Схеми\"",
+            "lemmatized_headline": "вр відрядити нардеп куницький до сша на тиждень , але той не повернутися — \" схема \"",
+            "datetime": "2024-12-26T21:48+02:00",
+            "cl_lem_headline": "вр відрядити нардеп куницький до сша на тиждень але той не повернутися схема "
+        }
+    },
+    {
+        "ID": 769,
+        "article_data": {
+            "link": "https://suspilne.media/sport/907233-usik-furi-2-hronologia-najbilsih-peremog-u-kareri-ukrainskogo-cempiona-svitu-z-boksu/",
+            "headline": "Усик — Ф'юрі 2: хронологія найбільших перемог у кар'єрі українського чемпіона світу з боксу",
+            "lemmatized_headline": "усик — ф'юрі 2 : хронологія найбільший перемога у кар'єра український чемпіон світ з бокс",
+            "datetime": "2024-12-21T10:36+02:00",
+            "cl_lem_headline": "усик фюрі 2 хронологія найбільший перемога у карєра український чемпіон світ з бокс"
+        }
+    },
+    {
+        "ID": 2583,
+        "article_data": {
+            "link": "https://suspilne.media/889013-goncarenko-umerova-potribno-negajno-zvilniti-cerez-skandal-iz-neakisnimi-minami/",
+            "headline": "Гончаренко: \"Умєрова потрібно негайно звільнити через скандал із неякісними мінами\"",
+            "lemmatized_headline": "гончаренко : \" умєрова потрібно негайно звільнити через скандал із неякісний міна \"",
+            "datetime": "2024-11-27T01:58+02:00",
+            "cl_lem_headline": "гончаренко умєрова потрібно негайно звільнити через скандал із неякісний міна "
+        }
+    },
+    {
+        "ID": 2323,
+        "article_data": {
+            "link": "https://suspilne.media/891841-rosijska-ta-sirijska-aviacia-atakuvali-aleppo/",
+            "headline": "Російська та сирійська авіації атакували Алеппо",
+            "lemmatized_headline": "російський та сирійський авіація атакувати алеппо",
+            "datetime": "2024-11-30T10:50+02:00",
+            "cl_lem_headline": "російський та сирійський авіація атакувати алеппо"
+        }
+    },
+    {
+        "ID": 832,
+        "article_data": {
+            "link": "https://suspilne.media/907239-recnik-mzs-rozpoviv-pro-pidgotovku-vizitu-specpredstavnika-trampa/",
+            "headline": "Речник МЗС розповів про підготовку візиту спецпредставника Трампа",
+            "lemmatized_headline": "речник мзс розповісти про підготовка візит спецпредставник трамп",
+            "datetime": "2024-12-20T15:02+02:00",
+            "cl_lem_headline": "речник мзс розповісти про підготовка візит спецпредставник трамп"
+        }
+    },
+    {
+        "ID": 2523,
+        "article_data": {
+            "link": "https://suspilne.media/889739-zelenskij-nezabarom-mae-pidpisati-zakoni-pro-derzbudzet-i-pidvisenna-podatkiv-smigal/",
+            "headline": "Зеленський незабаром має підписати закони про держбюджет і підвищення податків — Шмигаль",
+            "lemmatized_headline": "зеленський незабаром мати підписати закон про держбюджет і підвищення податок — шмигаль",
+            "datetime": "2024-11-27T18:44+02:00",
+            "cl_lem_headline": "зеленський незабаром мати підписати закон про держбюджет і підвищення податок шмигаль"
+        }
+    },
+    {
+        "ID": 1453,
+        "article_data": {
+            "link": "https://suspilne.media/900861-u-nas-tut-kotel-z-pihotou-zaihali-pid-kurahove-suspilne-reportaz/",
+            "headline": "\"У нас тут котел\". З піхотою заїхали під Курахове. СУСПІЛЬНЕ | РЕПОРТАЖ",
+            "lemmatized_headline": "\" у ми тут котел \" . з піхота заїхати під курахове . суспільний | репортаж",
+            "datetime": "2024-12-12T13:28+02:00",
+            "cl_lem_headline": " у ми тут котел з піхота заїхати під курахове суспільний репортаж"
+        }
+    },
+    {
+        "ID": 300,
+        "article_data": {
+            "link": "https://suspilne.media/sport/911541-podvijnij-podium-harlan-zoloto-magucih-ta-hiznaka-olimpiada-u-parizi-najbilsa-podia-2024-roku-dla-ukraini/",
+            "headline": "Подвійний подіум Харлан, \"золото\" Магучіх та Хижняка. Олімпіада у Парижі — найбільша подія 2024 року для України",
+            "lemmatized_headline": "подвійний подіум харлан , \" золото \" магучіх та хижняк . олімпіада у париж — найбільший подія 2024 рок для україна",
+            "datetime": "2024-12-27T09:56+02:00",
+            "cl_lem_headline": "подвійний подіум харлан золото магучіх та хижняк олімпіада у париж найбільший подія 2024 рок для україна"
+        }
+    },
+    {
+        "ID": 95,
+        "article_data": {
+            "link": "https://suspilne.media/914057-kampania-uhilant-ta-insi-ipso-aki-rf-posiruvala-sered-ukrainciv-u-2024-roci/",
+            "headline": "Кампанія \"ухилянт\" та інші ІПСО, які РФ поширювала серед українців у 2024 році",
+            "lemmatized_headline": "кампанія \" ухилянт \" та інший іпсо , який рф поширювати серед українець у 2024 рік",
+            "datetime": "2024-12-30T12:39+02:00",
+            "cl_lem_headline": "кампанія ухилянт та інший іпсо який рф поширювати серед українець у 2024 рік"
+        }
+    },
+    {
+        "ID": 371,
+        "article_data": {
+            "link": "https://suspilne.media/911459-nova-ukrainska-zbroa-so-vigotovila-ukraina-u-2024-roci/",
+            "headline": "Нова українська зброя. Що виготовила Україна у 2024 році",
+            "lemmatized_headline": "новий український зброя . що виготовити україна у 2024 рік",
+            "datetime": "2024-12-26T13:05+02:00",
+            "cl_lem_headline": "новий український зброя що виготовити україна у 2024 рік"
+        }
+    },
+    {
+        "ID": 1036,
+        "article_data": {
+            "link": "https://suspilne.media/905031-na-fronti-za-dobu-vidbulosa-199-boezitknen-armia-rf-vtratila-1580-vijskovih-genstab/",
+            "headline": "На фронті за добу відбулося 199 боєзіткнень, армія РФ втратила 1580 військових — Генштаб",
+            "lemmatized_headline": "на фронт за доба відбутися 199 боєзіткнення , армія рф втратити 1580 військовий — генштаб",
+            "datetime": "2024-12-18T08:35+02:00",
+            "cl_lem_headline": "на фронт за доба відбутися 199 боєзіткнення армія рф втратити 1580 військовий генштаб"
+        }
+    },
+    {
+        "ID": 2252,
+        "article_data": {
+            "link": "https://suspilne.media/892569-es-nadast-ukraini-dodatkovi-42-mlrd-a-z-sicna-planue-vidilati-somisaca-15-mlrd/",
+            "headline": "ЄС надасть Україні додаткові €4,2 млрд, а з січня планує виділяти щомісяця €1,5 млрд",
+            "lemmatized_headline": "єс надати україна додатковий € 4,2 млрд , а з січень планувати виділяти щомісяця € 1,5 млрд",
+            "datetime": "2024-12-01T17:45+02:00",
+            "cl_lem_headline": "єс надати україна додатковий 42 млрд а з січень планувати виділяти щомісяця 15 млрд"
+        }
+    },
+    {
+        "ID": 240,
+        "article_data": {
+            "link": "https://suspilne.media/912913-u-bilomu-domi-zaavili-so-vijska-kndr-zaznaut-masovih-vtrat-na-fronti-v-ukraini/",
+            "headline": "У Білому домі заявили, що війська КНДР зазнають масових втрат на фронті в Україні",
+            "lemmatized_headline": "у білий дім заявити , що військо кндр зазнавати масовий втрата на фронт в україна",
+            "datetime": "2024-12-28T00:15+02:00",
+            "cl_lem_headline": "у білий дім заявити що військо кндр зазнавати масовий втрата на фронт в україна"
+        }
+    },
+    {
+        "ID": 2263,
+        "article_data": {
+            "link": "https://suspilne.media/sumy/892419-batko-eksdeputata-iz-sumsini-andria-derkaca-pricetnij-do-peredaci-rosii-ukrainskih-bombarduvalnikiv/",
+            "headline": "Батько ексдепутата із Сумщини Андрія Деркача причетний до передачі Росії українських бомбардувальників",
+            "lemmatized_headline": "батько ексдепутат із сумщина андрій деркач причетний до передача росія український бомбардувальник",
+            "datetime": "2024-12-01T13:29+02:00",
+            "cl_lem_headline": "батько ексдепутат із сумщина андрій деркач причетний до передача росія український бомбардувальник"
+        }
+    },
+    {
+        "ID": 657,
+        "article_data": {
+            "link": "https://suspilne.media/908663-silnij-storm-paralizuvav-transportne-spolucenna-na-madejri/",
+            "headline": "Сильний шторм паралізував транспортне сполучення на Мадейрі",
+            "lemmatized_headline": "сильний шторм паралізувати транспортний сполучення на мадейрі",
+            "datetime": "2024-12-23T03:47+02:00",
+            "cl_lem_headline": "сильний шторм паралізувати транспортний сполучення на мадейрі"
+        }
+    },
+    {
+        "ID": 2670,
+        "article_data": {
+            "link": "https://suspilne.media/khmelnytskiy/886399-na-hmelniccini-pid-cas-povitranoi-trivogi-26-listopada-zbili-sist-bpla/",
+            "headline": "На Хмельниччині під час повітряної тривоги 26 листопада збили шість БпЛА",
+            "lemmatized_headline": "на хмельниччина під час повітряний тривога 26 листопад збити шість бпла",
+            "datetime": "2024-11-26T07:54+02:00",
+            "cl_lem_headline": "на хмельниччина під час повітряний тривога 26 листопад збити шість бпла"
+        }
+    },
+    {
+        "ID": 108,
+        "article_data": {
+            "link": "https://suspilne.media/sport/913885-angelina-kalinina-na-vidmovi-supernici-peremogla-u-persomu-matci-sezonu-2025-osnovnoi-sitki-wta/",
+            "headline": "Ангеліна Калініна на відмові суперниці перемогла у першому матчі сезону-2025 основної сітки WTA",
+            "lemmatized_headline": "ангеліна калініна на відмова суперниця перемогти у перший матч сезону-2025 основний сітка wta",
+            "datetime": "2024-12-30T09:29+02:00",
+            "cl_lem_headline": "ангеліна калініна на відмова суперниця перемогти у перший матч сезону2025 основний сітка wta"
+        }
+    },
+    {
+        "ID": 1496,
+        "article_data": {
+            "link": "https://suspilne.media/culture/900365-elton-dzon-ikona-2024-roku-za-versieu-time/",
+            "headline": "Елтон Джон — Ікона 2024 року за версією TIME",
+            "lemmatized_headline": "елтон джон — ікона 2024 рок за версія time",
+            "datetime": "2024-12-11T22:11+02:00",
+            "cl_lem_headline": "елтон джон ікона 2024 рок за версія time"
+        }
+    },
+    {
+        "ID": 491,
+        "article_data": {
+            "link": "https://suspilne.media/910305-minust-moze-ne-prodovziti-kontrakt-iz-direktorom-kndise-cerez-druge-gromadanstvo-shemi/",
+            "headline": "Мін'юст може не продовжити контракт із директором КНДІСЕ через друге громадянство — Схеми",
+            "lemmatized_headline": "мін'юст могти не продовжити контракт із директор кндісе через другий громадянство — схема",
+            "datetime": "2024-12-24T21:13+02:00",
+            "cl_lem_headline": "мінюст могти не продовжити контракт із директор кндісе через другий громадянство схема"
+        }
+    },
+    {
+        "ID": 2097,
+        "article_data": {
+            "link": "https://suspilne.media/894269-smilanskij-ocoliv-stab-z-reformi-ukrainskoi-mitnici/",
+            "headline": "Смілянський очолив штаб з реформи української митниці",
+            "lemmatized_headline": "смілянський очолити штаб з реформа український митниця",
+            "datetime": "2024-12-03T19:41+02:00",
+            "cl_lem_headline": "смілянський очолити штаб з реформа український митниця"
+        }
+    },
+    {
+        "ID": 1448,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/900887-buhanki-bagi-dzipi-rosijski-vijska-na-pokrovskomu-napramku-provodat-rotacii/",
+            "headline": "\"Буханки\", \"багі\", джипи: російські війська на Покровському напрямку проводять ротації",
+            "lemmatized_headline": "\" буханка \" , \" багі \" , джип : російський військо на покровський напрямок проводити ротація",
+            "datetime": "2024-12-12T13:59+02:00",
+            "cl_lem_headline": " буханка багі джип російський військо на покровський напрямок проводити ротація"
+        }
+    },
+    {
+        "ID": 25,
+        "article_data": {
+            "link": "https://suspilne.media/khmelnytskiy/914741-2024-cifri-roku-u-riznih-sferah-zittedialnosti-hmelniccini/",
+            "headline": "2024: цифри року у різних сферах життєдіяльності Хмельниччини",
+            "lemmatized_headline": "2024 : цифра рок у різний сфера життєдіяльність хмельниччина",
+            "datetime": "2024-12-31T09:00+02:00",
+            "cl_lem_headline": "2024 цифра рок у різний сфера життєдіяльність хмельниччина"
+        }
+    },
+    {
+        "ID": 72,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/914463-policejski-evakuuvali-z-berislava-na-hersonsini-hvorogo-colovika-ta-poranenu-litnu-zinku/",
+            "headline": "Поліцейські евакуювали з Берислава на Херсонщині хворого чоловіка та поранену літню жінку",
+            "lemmatized_headline": "поліцейський евакуювати з берислав на херсонщина хворий чоловік та поранений літній жінка",
+            "datetime": "2024-12-30T16:16+02:00",
+            "cl_lem_headline": "поліцейський евакуювати з берислав на херсонщина хворий чоловік та поранений літній жінка"
+        }
+    },
+    {
+        "ID": 19,
+        "article_data": {
+            "link": "https://suspilne.media/dnipro/914809-peredali-novoricni-listivki-vid-ditej-u-dnipri-volonteri-privitali-pereselenciv-akih-vivezli-z-pid-obstriliv/",
+            "headline": "Передали новорічні листівки від дітей. У Дніпрі волонтери привітали переселенців, яких вивезли з-під обстрілів",
+            "lemmatized_headline": "передати новорічний листівка від дитина . у дніпро волонтер привітати переселенець , який вивезти з - під обстріл",
+            "datetime": "2024-12-31T10:09+02:00",
+            "cl_lem_headline": "передати новорічний листівка від дитина у дніпро волонтер привітати переселенець який вивезти з під обстріл"
+        }
+    },
+    {
+        "ID": 790,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/907633-rosijskij-sahed-pociliv-u-zitlovij-budinok-harkova/",
+            "headline": "Російський \"Шахед\" поцілив у житловий будинок Харкова",
+            "lemmatized_headline": "російський \" шахед \" поцілити у житловий будинок харків",
+            "datetime": "2024-12-21T00:44+02:00",
+            "cl_lem_headline": "російський шахед поцілити у житловий будинок харків"
+        }
+    },
+    {
+        "ID": 921,
+        "article_data": {
+            "link": "https://suspilne.media/906287-britanskih-vijskovih-mozut-napraviti-v-ukrainu-dla-trenuvalnoi-misii-gili/",
+            "headline": "Британських військових можуть направити в Україну для тренувальної місії — Гілі",
+            "lemmatized_headline": "британський військовий могти направити в україна для тренувальний місія — гілі",
+            "datetime": "2024-12-19T14:29+02:00",
+            "cl_lem_headline": "британський військовий могти направити в україна для тренувальний місія гілі"
+        }
+    },
+    {
+        "ID": 1863,
+        "article_data": {
+            "link": "https://suspilne.media/896727-rf-i-bilorus-pidpisali-dogovir-pro-garantii-bezpeki/",
+            "headline": "РФ і Білорусь підписали Договір про гарантії безпеки",
+            "lemmatized_headline": "рф і білорусь підписати договір про гарантія безпека",
+            "datetime": "2024-12-06T16:54+02:00",
+            "cl_lem_headline": "рф і білорусь підписати договір про гарантія безпека"
+        }
+    },
+    {
+        "ID": 2575,
+        "article_data": {
+            "link": "https://suspilne.media/889031-nicna-ataka-na-kiiv-umerov-u-seli-ta-istoricna-ugoda-miz-izrailem-ta-livanom-golovni-novini-ranku-27-listopada/",
+            "headline": "Нічна атака на Київ, Умєров у Сеулі та історична угода між Ізраїлем та Ліваном — головні новини ранку 27 листопада",
+            "lemmatized_headline": "нічний атака на київ , умєров у сеул та історичний угода між ізраїль та ліван — головний новина ранок 27 листопад",
+            "datetime": "2024-11-27T07:16+02:00",
+            "cl_lem_headline": "нічний атака на київ умєров у сеул та історичний угода між ізраїль та ліван головний новина ранок 27 листопад"
+        }
+    },
+    {
+        "ID": 384,
+        "article_data": {
+            "link": "https://suspilne.media/dnipro/911307-sist-ludej-poraneni-cerez-ataku-dronom-kamikadze-u-nikopoli/",
+            "headline": "Вісім людей поранені через атаку дроном-камікадзе у Нікополі",
+            "lemmatized_headline": "вісім людина поранений через атака дрон - камікадзе у нікополь",
+            "datetime": "2024-12-26T10:55+02:00",
+            "cl_lem_headline": "вісім людина поранений через атака дрон камікадзе у нікополь"
+        }
+    },
+    {
+        "ID": 2178,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/893411-na-slahu-do-es-u-kievi-vidbulasa-akcia-na-pidtrimku-prav-ludej-z-invalidnistu/",
+            "headline": "\"На шляху до ЄС\": у Києві відбулася акція на підтримку прав людей з інвалідністю",
+            "lemmatized_headline": "\" на шлях до єс \" : у кий відбутися акція на підтримка право людина з інвалідність",
+            "datetime": "2024-12-02T20:37+02:00",
+            "cl_lem_headline": " на шлях до єс у кий відбутися акція на підтримка право людина з інвалідність"
+        }
+    },
+    {
+        "ID": 2447,
+        "article_data": {
+            "link": "https://suspilne.media/890449-evroparlament-zasudiv-parlamentski-vibori-v-gruzii-ta-zaklikav-provesti-povtorni/",
+            "headline": "Європарламент засудив парламентські вибори в Грузії та закликав провести повторні",
+            "lemmatized_headline": "європарламент засудити парламентський вибори в грузія та закликати провести повторний",
+            "datetime": "2024-11-28T15:06+02:00",
+            "cl_lem_headline": "європарламент засудити парламентський вибори в грузія та закликати провести повторний"
+        }
+    },
+    {
+        "ID": 2634,
+        "article_data": {
+            "link": "https://suspilne.media/888521-u-nacgvardii-termin-zagalnoi-vijskovoi-pidgotovki-zbilsili-do-2-misaciv-komanduvac-ngu/",
+            "headline": "У Нацгвардії термін загальної військової підготовки збільшили до 2 місяців — командувач НГУ",
+            "lemmatized_headline": "у нацгвардія термін загальний військовий підготовка збільшити до 2 місяць — командувач нгу",
+            "datetime": "2024-11-26T13:51+02:00",
+            "cl_lem_headline": "у нацгвардія термін загальний військовий підготовка збільшити до 2 місяць командувач нгу"
+        }
+    },
+    {
+        "ID": 229,
+        "article_data": {
+            "link": "https://suspilne.media/912937-nicnij-obstril-mikolaeva-125-mlrd-vid-ssa-ta-pogrozi-slovaccini-golovni-novini-ranku-28-grudna/",
+            "headline": "Нічний обстріл Миколаєва, $1,25 млрд від США та погрози Словаччини — головні новини ранку 28 грудня",
+            "lemmatized_headline": "нічний обстріл миколаїв , $ 1,25 млрд від сша та погроза словаччина — головний новина ранок 28 грудень",
+            "datetime": "2024-12-28T07:34+02:00",
+            "cl_lem_headline": "нічний обстріл миколаїв 125 млрд від сша та погроза словаччина головний новина ранок 28 грудень"
+        }
+    },
+    {
+        "ID": 1936,
+        "article_data": {
+            "link": "https://suspilne.media/895971-u-2025-roci-zsu-otrimaut-ponad-30-tisac-udarnih-droniv-deepstrike-umerov/",
+            "headline": "У 2025 році ЗСУ отримають понад 30 тисяч ударних дронів DeepStrike — Умєров",
+            "lemmatized_headline": "у 2025 рік зсу отримають понад 30 тисяча ударний дрон deepstrike — умєров",
+            "datetime": "2024-12-05T19:13+02:00",
+            "cl_lem_headline": "у 2025 рік зсу отримають понад 30 тисяча ударний дрон deepstrike умєров"
+        }
+    },
+    {
+        "ID": 413,
+        "article_data": {
+            "link": "https://suspilne.media/911043-kiberzlocinci-rozislali-ukraincam-fejkovi-povidomlenna-pro-zaborgovanist-pered-novou-postou/",
+            "headline": "Кіберзлочинці розіслали українцям фейкові повідомлення про заборгованість перед \"Новою поштою\"",
+            "lemmatized_headline": "кіберзлочинець розіслати українець фейковий повідомлення про заборгованість перед \" новий пошта \"",
+            "datetime": "2024-12-25T19:27+02:00",
+            "cl_lem_headline": "кіберзлочинець розіслати українець фейковий повідомлення про заборгованість перед новий пошта "
+        }
+    },
+    {
+        "ID": 948,
+        "article_data": {
+            "link": "https://suspilne.media/905933-urad-ssa-zaklikae-politikiv-vidmovitisa-vid-regularnih-dzvinkiv-i-sms-u-comu-pricina/",
+            "headline": "Уряд США закликає політиків відмовитися від регулярних дзвінків і смс. У чому причина",
+            "lemmatized_headline": "уряд сша закликати політик відмовитися від регулярний дзвінок і смс . у чому причина",
+            "datetime": "2024-12-19T09:47+02:00",
+            "cl_lem_headline": "уряд сша закликати політик відмовитися від регулярний дзвінок і смс у чому причина"
+        }
+    },
+    {
+        "ID": 2553,
+        "article_data": {
+            "link": "https://suspilne.media/889309-kabmin-pogodiv-kandidaturi-nezaleznih-cleniv-nagladovoi-radi-ukrenergo/",
+            "headline": "Кабмін погодив кандидатури незалежних членів наглядової ради \"Укренерго\"",
+            "lemmatized_headline": "кабмін погодити кандидатура незалежний член наглядовий рада \" укренерго \"",
+            "datetime": "2024-11-27T12:42+02:00",
+            "cl_lem_headline": "кабмін погодити кандидатура незалежний член наглядовий рада укренерго "
+        }
+    },
+    {
+        "ID": 2054,
+        "article_data": {
+            "link": "https://suspilne.media/mykolaiv/894629-rosiani-stagnuli-svoi-pidrozdili-na-kinburnskij-pivostriv-so-na-mikolaivsini-sili-oboroni-pivdna/",
+            "headline": "Росіяни стягнули свої підрозділи на Кінбурнський півострів, що на Миколаївщині — Сили оборони півдня",
+            "lemmatized_headline": "росіянин стягнути свій підрозділ на кінбурнський півострів , що на миколаївщина — сила оборона південь",
+            "datetime": "2024-12-04T12:53+02:00",
+            "cl_lem_headline": "росіянин стягнути свій підрозділ на кінбурнський півострів що на миколаївщина сила оборона південь"
+        }
+    },
+    {
+        "ID": 1455,
+        "article_data": {
+            "link": "https://suspilne.media/900757-ukrenergo-obicae-rivnomirni-i-spravedlivi-grafiki-vidklucen-so-zminilos/",
+            "headline": "Укренерго обіцяє \"рівномірні і справедливі\" графіки відключень. Що змінилось",
+            "lemmatized_headline": "укренерго обіцяти \" рівномірний і справедливий \" графіка відключення . що змінитися",
+            "datetime": "2024-12-12T12:57+02:00",
+            "cl_lem_headline": "укренерго обіцяти рівномірний і справедливий графіка відключення що змінитися"
+        }
+    },
+    {
+        "ID": 996,
+        "article_data": {
+            "link": "https://suspilne.media/rivne/905497-u-rivnomu-suditimut-organizatora-merezi-narkolaboratorij-akij-perehovuvavsa-v-munheni/",
+            "headline": "У Рівному судитимуть ймовірного організатора мережі нарколабораторій, який переховувався в Мюнхені",
+            "lemmatized_headline": "у рівному судити ймовірний організатор мережа нарколабораторія , який переховуватися в мюнхен",
+            "datetime": "2024-12-18T15:40+02:00",
+            "cl_lem_headline": "у рівному судити ймовірний організатор мережа нарколабораторія який переховуватися в мюнхен"
+        }
+    },
+    {
+        "ID": 2030,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/894661-u-hersoni-proveli-v-ostannu-put-volonterku-rimmu-baranenko-aka-zaginula-cerez-ataku-drona-rf/",
+            "headline": "У Херсоні провели в останню путь волонтерку Римму Бараненко, яка загинула через атаку дрона РФ",
+            "lemmatized_headline": "у херсон провести в останній путь волонтерка римма бараненко , який загинути через атака дрон рф",
+            "datetime": "2024-12-04T16:10+02:00",
+            "cl_lem_headline": "у херсон провести в останній путь волонтерка римма бараненко який загинути через атака дрон рф"
+        }
+    },
+    {
+        "ID": 770,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/907743-rosijski-vijska-vdarili-kerovanimi-aviabombami-po-onkodispanseru-u-hersoni/",
+            "headline": "Російські війська вдарили керованими авіабомбами по онкодиспансеру у Херсоні",
+            "lemmatized_headline": "російський військо вдарити керований авіабомба по онкодиспансер у херсон",
+            "datetime": "2024-12-21T10:26+02:00",
+            "cl_lem_headline": "російський військо вдарити керований авіабомба по онкодиспансер у херсон"
+        }
+    },
+    {
+        "ID": 1840,
+        "article_data": {
+            "link": "https://suspilne.media/896959-sud-ssa-pidtrimav-zakon-akij-vimagae-prodazu-tiktok/",
+            "headline": "Суд США підтримав закон, який вимагає продажу ТікТок",
+            "lemmatized_headline": "суд сша підтримати закон , який вимагати продаж тікток",
+            "datetime": "2024-12-06T21:42+02:00",
+            "cl_lem_headline": "суд сша підтримати закон який вимагати продаж тікток"
+        }
+    },
+    {
+        "ID": 971,
+        "article_data": {
+            "link": "https://suspilne.media/905827-gensek-nato-pragne-zabezpeciti-ukraini-poziciu-sili-dla-mirnih-peregovoriv-z-rf/",
+            "headline": "Генсек НАТО прагне забезпечити Україні \"позицію сили\" для мирних переговорів з РФ",
+            "lemmatized_headline": "генсек нато прагнути забезпечити україна \" позиція сила \" для мирний переговори з рф",
+            "datetime": "2024-12-18T22:31+02:00",
+            "cl_lem_headline": "генсек нато прагнути забезпечити україна позиція сила для мирний переговори з рф"
+        }
+    },
+    {
+        "ID": 1934,
+        "article_data": {
+            "link": "https://suspilne.media/896009-zelenskij-vruciv-derznagorodi-volonteram/",
+            "headline": "Зеленський вручив держнагороди волонтерам",
+            "lemmatized_headline": "зеленський вручити держнагорода волонтер",
+            "datetime": "2024-12-05T20:04+02:00",
+            "cl_lem_headline": "зеленський вручити держнагорода волонтер"
+        }
+    },
+    {
+        "ID": 220,
+        "article_data": {
+            "link": "https://suspilne.media/culture/912481-pamati-tih-hto-vidijsov-vidomi-ukrainci-akih-mi-vtratili-u-2024-roci/",
+            "headline": "Пам'яті тих, хто відійшов: відомі українці, яких ми втратили у 2024 році",
+            "lemmatized_headline": "пам'ять той , хто відійти : відомий українець , який ми втратити у 2024 рік",
+            "datetime": "2024-12-28T11:06+02:00",
+            "cl_lem_headline": "память той хто відійти відомий українець який ми втратити у 2024 рік"
+        }
+    },
+    {
+        "ID": 119,
+        "article_data": {
+            "link": "https://suspilne.media/913853-polsa-z-novogo-roku-posilue-strafi-ta-obmezenna-dla-vodiiv/",
+            "headline": "Польща з нового року посилює штрафи та обмеження для водіїв",
+            "lemmatized_headline": "польща з новий рок посилювати штраф та обмеження для водій",
+            "datetime": "2024-12-30T03:33+02:00",
+            "cl_lem_headline": "польща з новий рок посилювати штраф та обмеження для водій"
+        }
+    },
+    {
+        "ID": 2198,
+        "article_data": {
+            "link": "https://suspilne.media/kropyvnytskiy/892815-na-kirovogradsini-ekszaliznicnik-zi-spivmeskankou-namagalis-spaliti-lokomotiv-ta-nizku-elektropidstancij-sbu/",
+            "headline": "На Кіровоградщині ексзалізничник зі співмешканкою намагались спалити локомотив та низку електропідстанцій – СБУ",
+            "lemmatized_headline": "на кіровоградщина ексзалізничник зі співмешканка намагатися спалити локомотив та низка електропідстанція – сбу",
+            "datetime": "2024-12-02T16:01+02:00",
+            "cl_lem_headline": "на кіровоградщина ексзалізничник зі співмешканка намагатися спалити локомотив та низка електропідстанція сбу"
+        }
+    },
+    {
+        "ID": 500,
+        "article_data": {
+            "link": "https://suspilne.media/culture/894511-zamist-persoi-zirki-sonce-ak-svatkuut-rizdvo-polarniki-ta-pingvini-na-stancii-akademik-vernadskij/",
+            "headline": "Замість першої зірки — Сонце: як святкують Різдво полярники та пінгвіни на станції \"Академік Вернадський\"",
+            "lemmatized_headline": "замість перший зірка — сонце : як святкувати різдво полярник та пінгвін на станція \" академік вернадський \"",
+            "datetime": "2024-12-24T18:02+02:00",
+            "cl_lem_headline": "замість перший зірка сонце як святкувати різдво полярник та пінгвін на станція академік вернадський "
+        }
+    },
+    {
+        "ID": 1751,
+        "article_data": {
+            "link": "https://suspilne.media/897763-izrail-zavdav-udariv-po-aviabazah-u-damasku-ta-na-pivdni-sirii/",
+            "headline": "Ізраїль завдав ударів по авіабазах у Дамаску та на півдні Сирії",
+            "lemmatized_headline": "ізраїль завдати удар по авіабаза у дамаск та на південь сирія",
+            "datetime": "2024-12-08T16:32+02:00",
+            "cl_lem_headline": "ізраїль завдати удар по авіабаза у дамаск та на південь сирія"
+        }
+    },
+    {
+        "ID": 1122,
+        "article_data": {
+            "link": "https://suspilne.media/904079-tramp-obgovorit-pripinenna-vijni-z-zelenskim-ta-putinim-es-i-ssa-vprovadili-sankcii-proti-rf-1028-den-vijni-onlajn/",
+            "headline": "Туск пообіцяв допомогу у питанні \"миротворчої місії\" в Україні, у Москві підірвали генерала РФ. 1028 день війни. Онлайн",
+            "lemmatized_headline": "туск пообіцяти допомога у питання \" миротворчий місія \" в україна , у москва підірвати генерал рф . 1028 день війна . онлайн",
+            "datetime": "2024-12-17T09:04+02:00",
+            "cl_lem_headline": "туск пообіцяти допомога у питання миротворчий місія в україна у москва підірвати генерал рф 1028 день війна онлайн"
+        }
+    },
+    {
+        "ID": 591,
+        "article_data": {
+            "link": "https://suspilne.media/909455-mistok-miz-ukraincami-za-kordonom-ta-vdoma-i-ne-lise-naviso-ukraini-institut-mnozinnogo-gromadanstva/",
+            "headline": "\"Місток між українцями за кордоном та вдома\" — і не лише: навіщо Україні інститут множинного громадянства",
+            "lemmatized_headline": "\" місток між українець за кордон та вдома \" — і не лише : навіщо україна інститут множинний громадянство",
+            "datetime": "2024-12-23T18:52+02:00",
+            "cl_lem_headline": " місток між українець за кордон та вдома і не лише навіщо україна інститут множинний громадянство"
+        }
+    },
+    {
+        "ID": 2230,
+        "article_data": {
+            "link": "https://suspilne.media/892777-solc-vperse-za-dva-z-polovinou-roki-pribuv-do-kieva/",
+            "headline": "Шольц вперше за два з половиною роки прибув до Києва",
+            "lemmatized_headline": "шольц вперше за два з половина рік прибути до київ",
+            "datetime": "2024-12-02T08:49+02:00",
+            "cl_lem_headline": "шольц вперше за два з половина рік прибути до київ"
+        }
+    },
+    {
+        "ID": 1306,
+        "article_data": {
+            "link": "https://suspilne.media/902371-u-2025-roci-belgia-zbilsit-ciselnist-vijsk-svidkogo-reaguvanna-nato/",
+            "headline": "У 2025 році Бельгія збільшить чисельність військ швидкого реагування НАТО",
+            "lemmatized_headline": "у 2025 рік бельгія збільшити чисельність військо швидкий реагування нато",
+            "datetime": "2024-12-14T08:27+02:00",
+            "cl_lem_headline": "у 2025 рік бельгія збільшити чисельність військо швидкий реагування нато"
+        }
+    },
+    {
+        "ID": 1812,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/897141-armia-rf-atakuvala-primorske-na-zaporizzi-e-zagibli/",
+            "headline": "Армія РФ атакувала Приморське на Запоріжжі: є загиблі",
+            "lemmatized_headline": "армія рф атакувати приморське на запоріжжя : бути загиблий",
+            "datetime": "2024-12-07T11:30+02:00",
+            "cl_lem_headline": "армія рф атакувати приморське на запоріжжя бути загиблий"
+        }
+    },
+    {
+        "ID": 547,
+        "article_data": {
+            "link": "https://suspilne.media/culture/909695-ak-svatkuut-rizdvo-v-ukraini-svatkovi-tradicii-ta-stravi-nacionalnih-spilnot/",
+            "headline": "Як святкують Різдво в Україні: святкові традиції та страви національних спільнот",
+            "lemmatized_headline": "як святкувати різдво в україна : святковий традиція та страва національний спільнота",
+            "datetime": "2024-12-24T11:00+02:00",
+            "cl_lem_headline": "як святкувати різдво в україна святковий традиція та страва національний спільнота"
+        }
+    },
+    {
+        "ID": 2403,
+        "article_data": {
+            "link": "https://suspilne.media/890897-na-fronti-za-dobu-vidbulosa-207-boezitknen-armia-rf-vtratila-2030-vijskovih-genstab/",
+            "headline": "На фронті за добу відбулося 207 боєзіткнень, армія РФ втратила 2030 військових — Генштаб",
+            "lemmatized_headline": "на фронт за доба відбутися 207 боєзіткнення , армія рф втратити 2030 військовий — генштаб",
+            "datetime": "2024-11-29T08:39+02:00",
+            "cl_lem_headline": "на фронт за доба відбутися 207 боєзіткнення армія рф втратити 2030 військовий генштаб"
+        }
+    },
+    {
+        "ID": 2677,
+        "article_data": {
+            "link": "https://suspilne.media/888139-reuters-pivnicna-korea-rozsirue-virobnictvo-raket-aki-vikoristovue-rosia-proti-ukraini/",
+            "headline": "Reuters: Північна Корея розширює виробництво ракет, які використовує Росія проти України",
+            "lemmatized_headline": "reuters : північний корея розширювати виробництво ракета , який використовувати росія проти україна",
+            "datetime": "2024-11-26T02:37+02:00",
+            "cl_lem_headline": "reuters північний корея розширювати виробництво ракета який використовувати росія проти україна"
+        }
+    },
+    {
+        "ID": 2385,
+        "article_data": {
+            "link": "https://suspilne.media/891079-desatki-postrazdalih-i-zatrimanih-policia-rozignala-protestuvalnikiv-u-tbilisi/",
+            "headline": "Десятки постраждалих і затриманих: поліція розігнала протестувальників у Тбілісі",
+            "lemmatized_headline": "десятка постраждалих і затриманий : поліція розігнати протестувальник у тбілісі",
+            "datetime": "2024-11-29T11:53+02:00",
+            "cl_lem_headline": "десятка постраждалих і затриманий поліція розігнати протестувальник у тбілісі"
+        }
+    },
+    {
+        "ID": 685,
+        "article_data": {
+            "link": "https://suspilne.media/odesa/905825-puskin-marker-okupacii-a-ne-poet-intervu-pro-vijnu-ta-dekolonizaciu-z-vahtangom-kipiani/",
+            "headline": "\"Пушкін — маркер окупації, а не поет\": інтерв’ю про війну та деколонізацію з Вахтангом Кіпіані",
+            "lemmatized_headline": "\" пушкін — маркер окупація , а не поет \" : інтерв’ю про війна та деколонізація з вахтанг кіпіані",
+            "datetime": "2024-12-22T14:54+02:00",
+            "cl_lem_headline": " пушкін маркер окупація а не поет інтервю про війна та деколонізація з вахтанг кіпіані"
+        }
+    },
+    {
+        "ID": 823,
+        "article_data": {
+            "link": "https://suspilne.media/907337-ukraina-peredala-ssa-dokazi-vikoristanna-zahidnih-tehnologij-u-rosijskij-zbroi/",
+            "headline": "Україна передала США докази використання західних технологій у російській зброї",
+            "lemmatized_headline": "україна передати сша доказ використання західний технологія у російський зброя",
+            "datetime": "2024-12-20T16:11+02:00",
+            "cl_lem_headline": "україна передати сша доказ використання західний технологія у російський зброя"
+        }
+    },
+    {
+        "ID": 1583,
+        "article_data": {
+            "link": "https://suspilne.media/899537-v-armia-mozna-bude-otrimati-viplatu-za-znisenu-tehniku-rosijskogo-vijska/",
+            "headline": "В \"Армія+\" можна буде отримати виплату за знищену техніку російського війська",
+            "lemmatized_headline": "в \" армія+ \" можний бути отримати виплата за знищений техніка російський військо",
+            "datetime": "2024-12-10T20:00+02:00",
+            "cl_lem_headline": "в армія можний бути отримати виплата за знищений техніка російський військо"
+        }
+    },
+    {
+        "ID": 1048,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/904989-rosia-zavdala-8-udariv-kabami-3-udari-raketami-ta-2-udari-bpla-po-zolocivskij-gromadi-na-harkivsini-protagom-45-hvilin/",
+            "headline": "Росія завдала 8 ударів КАБами, 3 удари ракетами та 2 удари БпЛА по Золочівській громаді протягом 45 хвилин",
+            "lemmatized_headline": "росія завдати 8 удар кабами , 3 удар ракета та 2 удар бпла по золочівський громада протягом 45 хвилина",
+            "datetime": "2024-12-17T22:33+02:00",
+            "cl_lem_headline": "росія завдати 8 удар кабами 3 удар ракета та 2 удар бпла по золочівський громада протягом 45 хвилина"
+        }
+    },
+    {
+        "ID": 692,
+        "article_data": {
+            "link": "https://suspilne.media/chernihiv/905787-vijna-na-cernigivsini-vijskovij-ogladac-rozpoviv-akim-buv-2024-rik-ta-cogo-cekati-u-2025-mu/",
+            "headline": "Війна на Чернігівщині: військовий оглядач розповів, яким був 2024 рік та чого чекати у 2025-му",
+            "lemmatized_headline": "війна на чернігівщина : військовий оглядач розповісти , який бути 2024 рік та що чекати у 2025-му",
+            "datetime": "2024-12-22T12:54+02:00",
+            "cl_lem_headline": "війна на чернігівщина військовий оглядач розповісти який бути 2024 рік та що чекати у 2025му"
+        }
+    },
+    {
+        "ID": 2532,
+        "article_data": {
+            "link": "https://suspilne.media/889609-podatkovij-komitet-radi-shvaliv-v-cilomu-zakonoproekt-sodo-kontrolu-za-azartnimi-igrami/",
+            "headline": "Податковий комітет Ради схвалив в цілому законопроєкт щодо контролю за азартними іграми",
+            "lemmatized_headline": "податковий комітет рада схвалити в ціле законопроєкт щодо контроль за азартний гра",
+            "datetime": "2024-11-27T16:32+02:00",
+            "cl_lem_headline": "податковий комітет рада схвалити в ціле законопроєкт щодо контроль за азартний гра"
+        }
+    },
+    {
+        "ID": 1499,
+        "article_data": {
+            "link": "https://suspilne.media/900423-orban-zaaviv-so-zelenskij-vidmovivsa-vid-rizdvanogo-peremira-z-rf/",
+            "headline": "Орбан заявив, що Зеленський відмовився від різдвяного перемир'я з РФ. В ОП відреагували",
+            "lemmatized_headline": "орбан заявити , що зеленський відмовитися від різдвяний перемир'я з рф . в оп відреагувати",
+            "datetime": "2024-12-11T20:56+02:00",
+            "cl_lem_headline": "орбан заявити що зеленський відмовитися від різдвяний перемиря з рф в оп відреагувати"
+        }
+    },
+    {
+        "ID": 1272,
+        "article_data": {
+            "link": "https://suspilne.media/902751-zapalenna-alinki-u-tbilisi-perenesli-na-neviznacenij-termin-cerez-radikalnu-opoziciu-kaladze/",
+            "headline": "Запалення вогнів на ялинці у Тбілісі перенесли на невизначений термін через \"радикальну опозицію\" — Каладзе",
+            "lemmatized_headline": "запалення вогонь на ялинка у тбілісі перенести на невизначений термін через \" радикальний опозиція \" — каладзе",
+            "datetime": "2024-12-14T21:52+02:00",
+            "cl_lem_headline": "запалення вогонь на ялинка у тбілісі перенести на невизначений термін через радикальний опозиція каладзе"
+        }
+    },
+    {
+        "ID": 381,
+        "article_data": {
+            "link": "https://suspilne.media/vinnytsia/911335-u-vinnici-vijskovosluzbovca-tck-pidozruut-u-pobitti-kolegi/",
+            "headline": "У Вінниці військовослужбовця ТЦК підозрюють у побитті чоловіка",
+            "lemmatized_headline": "у вінниця військовослужбовець тцк підозрювати у побиття чоловік",
+            "datetime": "2024-12-26T11:31+02:00",
+            "cl_lem_headline": "у вінниця військовослужбовець тцк підозрювати у побиття чоловік"
+        }
+    },
+    {
+        "ID": 2272,
+        "article_data": {
+            "link": "https://suspilne.media/892341-povstanci-gotuutsa-do-blickrigu-so-vidbuvaetsa-u-sirii-i-do-cogo-mozut-prizvesti-novi-aktivni-bojovi-dii-v-kraini/",
+            "headline": "\"Повстанці готуються до бліцкригу\". Що відбувається у Сирії і до чого можуть призвести нові активні бойові дії",
+            "lemmatized_headline": "\" повстанець готуватися до бліцкриг \" . що відбуватися у сирія і до що могти призвести новий активний бойовий дія",
+            "datetime": "2024-12-01T10:54+02:00",
+            "cl_lem_headline": " повстанець готуватися до бліцкриг що відбуватися у сирія і до що могти призвести новий активний бойовий дія"
+        }
+    },
+    {
+        "ID": 2375,
+        "article_data": {
+            "link": "https://suspilne.media/891251-v-ukrainu-povernuli-tila-502-zagiblih-ukrainskih-vijskovih-koordstab/",
+            "headline": "В Україну повернули тіла 502 загиблих українських військових — Коордштаб",
+            "lemmatized_headline": "в україна повернути тіло 502 загиблих український військовий — коордштаб",
+            "datetime": "2024-11-29T13:32+02:00",
+            "cl_lem_headline": "в україна повернути тіло 502 загиблих український військовий коордштаб"
+        }
+    },
+    {
+        "ID": 258,
+        "article_data": {
+            "link": "https://suspilne.media/912755-kabmin-viznaciv-hto-z-vijskovosluzbovciv-zsu-zobovazanij-voloditi-anglijskou/",
+            "headline": "Кабмін визначив, хто з військовослужбовців ЗСУ зобов’язаний володіти англійською",
+            "lemmatized_headline": "кабмін визначити , хто з військовослужбовець зсу зобов’язаний володіти англійська",
+            "datetime": "2024-12-27T17:58+02:00",
+            "cl_lem_headline": "кабмін визначити хто з військовослужбовець зсу зобовязаний володіти англійська"
+        }
+    },
+    {
+        "ID": 1064,
+        "article_data": {
+            "link": "https://suspilne.media/904833-v-ukrenergo-rozpovili-ak-diatimut-grafiki-vidklucen-svitla-18-grudna/",
+            "headline": "В \"Укренерго\" розповіли, як діятимуть графіки відключень світла 18 грудня",
+            "lemmatized_headline": "в \" укренерго \" розповісти , як діяти графіка відключення світло 18 грудень",
+            "datetime": "2024-12-17T18:16+02:00",
+            "cl_lem_headline": "в укренерго розповісти як діяти графіка відключення світло 18 грудень"
+        }
+    },
+    {
+        "ID": 176,
+        "article_data": {
+            "link": "https://suspilne.media/913429-prezident-pivdennoi-korei-vtrete-ne-zavivsa-na-dopit/",
+            "headline": "Президент Південної Кореї втретє не з'явився на допит",
+            "lemmatized_headline": "президент південний корея втретє не з'явитися на допит",
+            "datetime": "2024-12-29T04:45+02:00",
+            "cl_lem_headline": "президент південний корея втретє не зявитися на допит"
+        }
+    },
+    {
+        "ID": 780,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/907713-u-cornomu-mori-21-grudna-perebuvae-tri-rosijskih-nosia-raket-kalibr-vms-zsu/",
+            "headline": "У Чорному морі 21 грудня перебуває три російських носія ракет \"Калібр\" — ВМС ЗСУ",
+            "lemmatized_headline": "у чорний море 21 грудень перебувати три російський носія ракета \" калібр \" — вмс зсу",
+            "datetime": "2024-12-21T08:26+02:00",
+            "cl_lem_headline": "у чорний море 21 грудень перебувати три російський носія ракета калібр вмс зсу"
+        }
+    },
+    {
+        "ID": 1586,
+        "article_data": {
+            "link": "https://suspilne.media/897403-umovi-na-fronti-zaraz-diktue-rosia-muravejnik-pro-prosuvanna-rosian-perspektivu-peregovoriv-ta-reformi-u-vijsku-2/",
+            "headline": "\"Умови на фронті зараз диктує Росія\". Муравейник — про просування росіян, перспективу переговорів та реформи у війську",
+            "lemmatized_headline": "\" умова на фронт зараз диктувати росія \" . муравейник — про просування росіянин , перспектива переговори та реформа у військо",
+            "datetime": "2024-12-10T19:12+02:00",
+            "cl_lem_headline": " умова на фронт зараз диктувати росія муравейник про просування росіянин перспектива переговори та реформа у військо"
+        }
+    },
+    {
+        "ID": 1940,
+        "article_data": {
+            "link": "https://suspilne.media/895903-zelenskij-uviv-u-diu-risenna-rnbo-pro-pereglad-umov-bronuvanna-medpracivnikiv/",
+            "headline": "Зеленський увів у дію рішення РНБО про перегляд умов бронювання медпрацівників",
+            "lemmatized_headline": "зеленський увести у дія рішення рнбо про перегляд умова бронювання медпрацівник",
+            "datetime": "2024-12-05T17:48+02:00",
+            "cl_lem_headline": "зеленський увести у дія рішення рнбо про перегляд умова бронювання медпрацівник"
+        }
+    },
+    {
+        "ID": 1149,
+        "article_data": {
+            "link": "https://suspilne.media/904011-tramp-planue-obgovoriti-pripinenna-vijni-v-ukraini-z-putinim/",
+            "headline": "Трамп планує обговорити припинення війни в Україні з Путіним",
+            "lemmatized_headline": "трамп планувати обговорити припинення війна в україна з путін",
+            "datetime": "2024-12-16T19:59+02:00",
+            "cl_lem_headline": "трамп планувати обговорити припинення війна в україна з путін"
+        }
+    },
+    {
+        "ID": 1641,
+        "article_data": {
+            "link": "https://suspilne.media/898829-zelenskij-a-skazav-trampu-so-putin-boitsa-lise-jogo-i-mozlivo-kitau/",
+            "headline": "Зеленський: \"Я сказав Трампу, що Путін боїться лише його і, можливо, Китаю\"",
+            "lemmatized_headline": "зеленський : \" я сказати трамп , що путін боятися лише він і , можливо , китай \"",
+            "datetime": "2024-12-10T07:40+02:00",
+            "cl_lem_headline": "зеленський я сказати трамп що путін боятися лише він і можливо китай "
+        }
+    },
+    {
+        "ID": 1711,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/898069-sbu-opublikuvala-ekskluzivni-kadri-specoperacii-sea-baby-u-kercenskij-buhti/",
+            "headline": "СБУ опублікувала ексклюзивні кадри спецоперації \"Sea Baby\" у Керченській бухті",
+            "lemmatized_headline": "сбу опублікувати ексклюзивний кадр спецоперація \" sea baby \" у керченський бухта",
+            "datetime": "2024-12-09T10:19+02:00",
+            "cl_lem_headline": "сбу опублікувати ексклюзивний кадр спецоперація sea baby у керченський бухта"
+        }
+    },
+    {
+        "ID": 1145,
+        "article_data": {
+            "link": "https://suspilne.media/904017-ugorsina-ne-dala-es-zaprovaditi-sankcii-proti-golovi-rpc-kirila-i-posla-rf-v-oon-siarto/",
+            "headline": "Угорщина не дала ЄС запровадити санкції проти голови РПЦ Кирила і посла РФ в ООН — Сіярто",
+            "lemmatized_headline": "угорщина не дати єс запровадити санкція проти голова рпц кирил і посол рф в оон — сіярто",
+            "datetime": "2024-12-16T20:35+02:00",
+            "cl_lem_headline": "угорщина не дати єс запровадити санкція проти голова рпц кирил і посол рф в оон сіярто"
+        }
+    },
+    {
+        "ID": 2141,
+        "article_data": {
+            "link": "https://suspilne.media/893707-ukrenergo-rf-dronami-atakuvala-ukrainsku-energosistemu-e-vlucanna/",
+            "headline": "Укренерго: РФ дронами атакувала українську енергосистему, є влучання",
+            "lemmatized_headline": "укренерго : рф дрон атакувати український енергосистема , бути влучання",
+            "datetime": "2024-12-03T11:24+02:00",
+            "cl_lem_headline": "укренерго рф дрон атакувати український енергосистема бути влучання"
+        }
+    },
+    {
+        "ID": 558,
+        "article_data": {
+            "link": "https://suspilne.media/908947-pivo-dla-elfiv-u-sauni-verbludi-santi-j-selanin-so-spravlae-nuzdu-10-cikavih-tradicij-rizdva/",
+            "headline": "Пиво для ельфів у сауні, верблюди-санти й селянин, що справляє нужду: 10 цікавих традицій Різдва",
+            "lemmatized_headline": "пиво для ельф у сауна , верблюд - санта й селянин , що справляти нужда : 10 цікавий традиція різдво",
+            "datetime": "2024-12-24T09:00+02:00",
+            "cl_lem_headline": "пиво для ельф у сауна верблюд санта й селянин що справляти нужда 10 цікавий традиція різдво"
+        }
+    },
+    {
+        "ID": 2070,
+        "article_data": {
+            "link": "https://suspilne.media/894435-luksemburg-proti-vstupu-ukraini-v-nato-spiegel/",
+            "headline": "Люксембург проти вступу України в НАТО — Spiegel",
+            "lemmatized_headline": "люксембург проти вступ україна в нато — spiegel",
+            "datetime": "2024-12-04T08:54+02:00",
+            "cl_lem_headline": "люксембург проти вступ україна в нато spiegel"
+        }
+    },
+    {
+        "ID": 1564,
+        "article_data": {
+            "link": "https://suspilne.media/899661-policia-pivdennoi-korei-provela-obsuki-v-ofisi-prezidenta-una/",
+            "headline": "Поліція Південної Кореї провела обшуки в офісі президента Юна",
+            "lemmatized_headline": "поліція південний корея провести обшук в офіс президент юн",
+            "datetime": "2024-12-11T06:58+02:00",
+            "cl_lem_headline": "поліція південний корея провести обшук в офіс президент юн"
+        }
+    },
+    {
+        "ID": 525,
+        "article_data": {
+            "link": "https://suspilne.media/909921-stajnmaer-ogolosiv-pro-rozpusk-bundestagu-27-grudna/",
+            "headline": "Штайнмаєр оголосив про розпуск Бундестагу 27 грудня",
+            "lemmatized_headline": "штайнмаєр оголосити про розпуск бундестаг 27 грудень",
+            "datetime": "2024-12-24T13:21+02:00",
+            "cl_lem_headline": "штайнмаєр оголосити про розпуск бундестаг 27 грудень"
+        }
+    },
+    {
+        "ID": 446,
+        "article_data": {
+            "link": "https://suspilne.media/910655-minoboroni-dozvolilo-vikoristovuvati-bpak-sedrik-u-silah-oboroni/",
+            "headline": "Міноборони дозволило використовувати БпАК \"Щедрик\" у Силах оборони",
+            "lemmatized_headline": "міноборони дозволити використовувати бпак \" щедрик \" у сила оборона",
+            "datetime": "2024-12-25T12:35+02:00",
+            "cl_lem_headline": "міноборони дозволити використовувати бпак щедрик у сила оборона"
+        }
+    },
+    {
+        "ID": 219,
+        "article_data": {
+            "link": "https://suspilne.media/913065-postacanna-droniv-u-zsu-j-vtrati-armii-rf-sirskij-pidbiv-pidsumki-2024-roku-ta-viznaciv-prioriteti-na-2025-j/",
+            "headline": "\"Постачання дронів у ЗСУ й втрати армії РФ\": Сирський підбив підсумки 2024 року та визначив пріоритети на 2025-й",
+            "lemmatized_headline": "\" постачання дрон у зсу й втрата армія рф \" : сирський підбити підсумок 2024 рок та визначити пріоритет на 2025-й",
+            "datetime": "2024-12-28T11:51+02:00",
+            "cl_lem_headline": " постачання дрон у зсу й втрата армія рф сирський підбити підсумок 2024 рок та визначити пріоритет на 2025й"
+        }
+    },
+    {
+        "ID": 1401,
+        "article_data": {
+            "link": "https://suspilne.media/901411-u-kanadi-kozna-20-ta-ludina-pomerla-za-dopomogou-evtanazii/",
+            "headline": "У Канаді кожна 20-та людина померла за допомогою евтаназії",
+            "lemmatized_headline": "у канада кожний 20-та людина померти за допомога евтаназія",
+            "datetime": "2024-12-13T03:20+02:00",
+            "cl_lem_headline": "у канада кожний 20та людина померти за допомога евтаназія"
+        }
+    },
+    {
+        "ID": 1913,
+        "article_data": {
+            "link": "https://suspilne.media/896123-u-pivdennij-korei-stvorili-grupu-dla-rozsliduvanna-situacii-z-voennim-stanom/",
+            "headline": "У Південній Кореї створили групу для розслідування ситуації з воєнним станом",
+            "lemmatized_headline": "у південний корея створити група для розслідування ситуація з воєнний стан",
+            "datetime": "2024-12-06T06:33+02:00",
+            "cl_lem_headline": "у південний корея створити група для розслідування ситуація з воєнний стан"
+        }
+    },
+    {
+        "ID": 1728,
+        "article_data": {
+            "link": "https://suspilne.media/897967-erdogan-e-dva-najdosvidcenisi-politicni-lideri-odin-putin-insij-a/",
+            "headline": "Ердоган: \"є два найдосвідченіші політичні лідери, один – Путін, інший – я\"",
+            "lemmatized_headline": "ердоган : \" бути два найдосвідченіший політичний лідер , один – путін , інший – я \"",
+            "datetime": "2024-12-09T00:46+02:00",
+            "cl_lem_headline": "ердоган бути два найдосвідченіший політичний лідер один путін інший я "
+        }
+    },
+    {
+        "ID": 1200,
+        "article_data": {
+            "link": "https://suspilne.media/903265-izrail-udariv-po-sirijskomu-uzberezzu-poblizu-tartusa-z-bazou-rf/",
+            "headline": "Ізраїль ударив по сирійському узбережжю поблизу Тартуса з базою РФ",
+            "lemmatized_headline": "ізраїль ударити по сирійський узбережжя поблизу тартус з база рф",
+            "datetime": "2024-12-16T07:51+02:00",
+            "cl_lem_headline": "ізраїль ударити по сирійський узбережжя поблизу тартус з база рф"
+        }
+    },
+    {
+        "ID": 275,
+        "article_data": {
+            "link": "https://suspilne.media/lviv/912419-te-so-vidbulosa-stalo-dla-mene-sokom-deputat-domanskij-prokomentuvav-zvinuvacenna/",
+            "headline": "\"Те, що відбулося, стало для мене шоком\": депутат Львівської облради Доманський прокоментував звинувачення",
+            "lemmatized_headline": "\" той , що відбутися , стати для я шок \" : депутат львівський облрада доманський прокоментувати звинувачення",
+            "datetime": "2024-12-27T14:25+02:00",
+            "cl_lem_headline": " той що відбутися стати для я шок депутат львівський облрада доманський прокоментувати звинувачення"
+        }
+    },
+    {
+        "ID": 1755,
+        "article_data": {
+            "link": "https://suspilne.media/897691-na-mitingah-u-gruzii-demonstrantam-zaboronat-zakrivati-oblicca-premer-kobahidze/",
+            "headline": "На мітингах у Грузії демонстрантам заборонять закривати обличчя — прем'єр Кобахідзе",
+            "lemmatized_headline": "на мітинг у грузія демонстрант заборонити закривати обличчя — прем'єр кобахідзе",
+            "datetime": "2024-12-08T14:01+02:00",
+            "cl_lem_headline": "на мітинг у грузія демонстрант заборонити закривати обличчя премєр кобахідзе"
+        }
+    },
+    {
+        "ID": 441,
+        "article_data": {
+            "link": "https://suspilne.media/910687-sili-oboroni-atakuvali-punkt-upravlinna-morskoi-pihoti-rf/",
+            "headline": "Сили оборони атакували пункт управління морської піхоти РФ",
+            "lemmatized_headline": "сила оборона атакувати пункт управління морський піхота рф",
+            "datetime": "2024-12-25T12:56+02:00",
+            "cl_lem_headline": "сила оборона атакувати пункт управління морський піхота рф"
+        }
+    },
+    {
+        "ID": 1741,
+        "article_data": {
+            "link": "https://suspilne.media/897907-vse-pro-situaciu-v-sirii-ak-povstanci-vzali-damask-suspilne-dajdzest/",
+            "headline": "Все про ситуацію в Сирії. Як повстанці взяли Дамаск. СУСПІЛЬНЕ | ДАЙДЖЕСТ",
+            "lemmatized_headline": "все про ситуація в сирія . як повстанець взяти дамаск . суспільний | дайджест",
+            "datetime": "2024-12-08T20:14+02:00",
+            "cl_lem_headline": "все про ситуація в сирія як повстанець взяти дамаск суспільний дайджест"
+        }
+    },
+    {
+        "ID": 1349,
+        "article_data": {
+            "link": "https://suspilne.media/901889-markus-rozpoviv-pro-konflikti-z-komanduvannam-47-i-ombr/",
+            "headline": "Маркус розповів про конфлікти з командуванням 47-ї ОМБр",
+            "lemmatized_headline": "маркус розповісти про конфлікт з командування 47-ї омбр",
+            "datetime": "2024-12-13T15:24+02:00",
+            "cl_lem_headline": "маркус розповісти про конфлікт з командування 47ї омбр"
+        }
+    },
+    {
+        "ID": 854,
+        "article_data": {
+            "link": "https://suspilne.media/906921-spozivanna-elektriki-v-ukraini-zmensuetsa-ale-zalisaetsa-deficit-potuznosti-ukrenergo/",
+            "headline": "Споживання електрики в Україні зменшується, але залишається дефіцит потужності — \"Укренерго\"",
+            "lemmatized_headline": "споживання електрика в україна зменшуватися , але залишатися дефіцит потужність — \" укренерго \"",
+            "datetime": "2024-12-20T11:19+02:00",
+            "cl_lem_headline": "споживання електрика в україна зменшуватися але залишатися дефіцит потужність укренерго "
+        }
+    },
+    {
+        "ID": 526,
+        "article_data": {
+            "link": "https://suspilne.media/909909-kabmin-zrobiv-veteranski-granti-na-vidkritta-biznesu-dostupnisimi-smigal/",
+            "headline": "Кабмін зробив ветеранські гранти на відкриття бізнесу доступнішими — Шмигаль",
+            "lemmatized_headline": "кабмін зробити ветеранський грант на відкриття бізнес доступніший — шмигаль",
+            "datetime": "2024-12-24T13:17+02:00",
+            "cl_lem_headline": "кабмін зробити ветеранський грант на відкриття бізнес доступніший шмигаль"
+        }
+    },
+    {
+        "ID": 2691,
+        "article_data": {
+            "link": "https://suspilne.media/888027-stefanisina-ukraina-obgovorue-z-partnerami-zalucenna-evropejskih-instruktoriv-dla-pidgotovki-svoih-brigad/",
+            "headline": "Стефанішина: Україна обговорює з партнерами залучення європейських інструкторів для підготовки своїх бригад",
+            "lemmatized_headline": "стефанішина : україна обговорювати з партнер залучення європейський інструктор для підготовка свій бригада",
+            "datetime": "2024-11-25T20:48+02:00",
+            "cl_lem_headline": "стефанішина україна обговорювати з партнер залучення європейський інструктор для підготовка свій бригада"
+        }
+    },
+    {
+        "ID": 1224,
+        "article_data": {
+            "link": "https://suspilne.media/903131-izrail-zakrivae-posolstvo-v-irlandii-so-vidomo/",
+            "headline": "Ізраїль закриває посольство в Ірландії. Що відомо",
+            "lemmatized_headline": "ізраїль закривати посольство в ірландія . що відомо",
+            "datetime": "2024-12-15T18:18+02:00",
+            "cl_lem_headline": "ізраїль закривати посольство в ірландія що відомо"
+        }
+    },
+    {
+        "ID": 2098,
+        "article_data": {
+            "link": "https://suspilne.media/894271-4-grudna-v-ukraini-vimikatimut-svitlo-z-600-do-2200-ukrenergo/",
+            "headline": "4 грудня в Україні вимикатимуть світло з 6:00 до 22:00 — \"Укренерго\"",
+            "lemmatized_headline": "4 грудень в україна вимикати світло з 6:00 до 22:00 — \" укренерго \"",
+            "datetime": "2024-12-03T19:32+02:00",
+            "cl_lem_headline": "4 грудень в україна вимикати світло з 600 до 2200 укренерго "
+        }
+    },
+    {
+        "ID": 426,
+        "article_data": {
+            "link": "https://suspilne.media/910835-papa-rimskij-u-rizdvanomu-poslanni-zaklikav-do-peregovoriv-ukraini-z-rosieu/",
+            "headline": "Папа Римський у різдвяному посланні закликав до переговорів України з Росією",
+            "lemmatized_headline": "папа римський у різдвяний послання закликати до переговори україна з росія",
+            "datetime": "2024-12-25T15:12+02:00",
+            "cl_lem_headline": "папа римський у різдвяний послання закликати до переговори україна з росія"
+        }
+    },
+    {
+        "ID": 1255,
+        "article_data": {
+            "link": "https://suspilne.media/sport/902773-viznacivsa-supernik-reala-u-finali-mizkontinentalnogo-kubka-hto-zigrae-proti-madridciv/",
+            "headline": "Визначився суперник \"Реала\" у фіналі Міжконтинентального кубка: хто зіграє проти мадридців",
+            "lemmatized_headline": "визначитися суперник \" реал \" у фінал міжконтинентальний кубок : хто зіграти проти мадридець",
+            "datetime": "2024-12-15T07:56+02:00",
+            "cl_lem_headline": "визначитися суперник реал у фінал міжконтинентальний кубок хто зіграти проти мадридець"
+        }
+    },
+    {
+        "ID": 1108,
+        "article_data": {
+            "link": "https://suspilne.media/chernivtsi/904271-vulicami-cernivciv-izdit-svatkovij-smittevoz-z-girlandami-de-mozna-pobaciti/",
+            "headline": "Вулицями Чернівців їздить святковий сміттєвоз з гірляндами: де можна побачити",
+            "lemmatized_headline": "вулиця чернівці їздити святковий сміттєвоз з гірлянда : де можний побачити",
+            "datetime": "2024-12-17T11:30+02:00",
+            "cl_lem_headline": "вулиця чернівці їздити святковий сміттєвоз з гірлянда де можний побачити"
+        }
+    },
+    {
+        "ID": 183,
+        "article_data": {
+            "link": "https://suspilne.media/913379-prezidentka-gruzii-zurabisvili-zaavila-so-zalisaetsa-u-rezidencii/",
+            "headline": "Президентка Грузії Зурабішвілі заявила, що залишається у резиденції",
+            "lemmatized_headline": "президентка грузія зурабішвілі заявити , що залишатися у резиденція",
+            "datetime": "2024-12-28T21:26+02:00",
+            "cl_lem_headline": "президентка грузія зурабішвілі заявити що залишатися у резиденція"
+        }
+    },
+    {
+        "ID": 1070,
+        "article_data": {
+            "link": "https://suspilne.media/cherkasy/904567-ihala-z-pokrovska-cilu-nic-u-cerkasah-zcinivsa-skandal-miz-vijskovosluzboviceu-ptaskou-ta-zoovolonterami/",
+            "headline": "\"Їхала з Покровська цілу ніч\": у Черкасах зчинився скандал між військовослужбовицею Пташкою та зооволонтерами",
+            "lemmatized_headline": "\" їхати з покровськ цілий ніч \" : у черкаси зчинитися скандал між військовослужбовиця пташка та зооволонтер",
+            "datetime": "2024-12-17T17:19+02:00",
+            "cl_lem_headline": " їхати з покровськ цілий ніч у черкаси зчинитися скандал між військовослужбовиця пташка та зооволонтер"
+        }
+    },
+    {
+        "ID": 896,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/905433-volonteri-zbirali-avtenticnu-ceglu-budivli-u-harkovi-sob-zberegti-cinnist-pamatki-pisla-udaru-rf/",
+            "headline": "Волонтери збирали автентичну цеглу будівлі у Харкові, щоб зберегти цінність пам'ятки після удару РФ",
+            "lemmatized_headline": "волонтер збирати автентичний цегла будівля у харко , щоб зберегти цінність пам'ятка після удар рф",
+            "datetime": "2024-12-19T19:00+02:00",
+            "cl_lem_headline": "волонтер збирати автентичний цегла будівля у харко щоб зберегти цінність памятка після удар рф"
+        }
+    },
+    {
+        "ID": 1261,
+        "article_data": {
+            "link": "https://suspilne.media/902801-tramp-ogolosiv-pro-priznacenna-kerivnika-socmerezi-truth-social-golovou-radi-z-pitan-rozvidki/",
+            "headline": "Трамп оголосив про призначення керівника соцмережі Truth Social головою Ради з питань розвідки",
+            "lemmatized_headline": "трамп оголосити про призначення керівник соцмережа truth social голова рада з питання розвідка",
+            "datetime": "2024-12-15T04:16+02:00",
+            "cl_lem_headline": "трамп оголосити про призначення керівник соцмережа truth social голова рада з питання розвідка"
+        }
+    },
+    {
+        "ID": 1727,
+        "article_data": {
+            "link": "https://suspilne.media/897969-sirijska-opozicia-u-vignanni-zaavlae-pro-stvorenna-civilnogo-perehidnogo-uradu-pisla-padinna-rezimu-asada/",
+            "headline": "Сирійська опозиція у вигнанні заявляє про створення цивільного перехідного уряду після падіння режиму Асада",
+            "lemmatized_headline": "сирійський опозиція у вигнання заявляти про створення цивільний перехідний уряд після падіння режим асад",
+            "datetime": "2024-12-09T01:27+02:00",
+            "cl_lem_headline": "сирійський опозиція у вигнання заявляти про створення цивільний перехідний уряд після падіння режим асад"
+        }
+    },
+    {
+        "ID": 1973,
+        "article_data": {
+            "link": "https://suspilne.media/895311-blinken-ne-viklucae-dodatkovih-sankcij-proti-uradu-gruzii/",
+            "headline": "Блінкен не виключає додаткових санкцій проти уряду Грузії",
+            "lemmatized_headline": "блінкен не виключати додатковий санкція проти уряд грузія",
+            "datetime": "2024-12-05T11:48+02:00",
+            "cl_lem_headline": "блінкен не виключати додатковий санкція проти уряд грузія"
+        }
+    },
+    {
+        "ID": 2419,
+        "article_data": {
+            "link": "https://suspilne.media/890799-u-kievi-prezentuvali-zurnal-ocima-zurnalistiv/",
+            "headline": "У Києві презентували журнал \"Очима журналістів\"",
+            "lemmatized_headline": "у кий презентувати журнал \" очима журналіст \"",
+            "datetime": "2024-11-28T21:54+02:00",
+            "cl_lem_headline": "у кий презентувати журнал очима журналіст "
+        }
+    },
+    {
+        "ID": 1050,
+        "article_data": {
+            "link": "https://suspilne.media/chernihiv/904971-zaginula-ludina-armia-rf-obstrilala-prikordonnu-semenivku-na-cernigivsini/",
+            "headline": "Загинула людина: армія РФ обстріляла прикордонну Семенівку на Чернігівщині",
+            "lemmatized_headline": "загинути людина : армія рф обстріляти прикордонний семенівка на чернігівщина",
+            "datetime": "2024-12-17T22:05+02:00",
+            "cl_lem_headline": "загинути людина армія рф обстріляти прикордонний семенівка на чернігівщина"
+        }
+    },
+    {
+        "ID": 985,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/905701-vistriliv-v-golovu-posered-vulici-u-policii-kieva-zaavlaut-pro-zatrimanna-pidozruvanogo-u-vbivstvi/",
+            "headline": "Вистрілив в голову посеред вулиці: у поліції Києва заявляють про затримання підозрюваного у вбивстві",
+            "lemmatized_headline": "вистрілити в голова посеред вулиця : у поліція київ заявляти про затримання підозрюваний у вбивство",
+            "datetime": "2024-12-18T18:07+02:00",
+            "cl_lem_headline": "вистрілити в голова посеред вулиця у поліція київ заявляти про затримання підозрюваний у вбивство"
+        }
+    },
+    {
+        "ID": 154,
+        "article_data": {
+            "link": "https://suspilne.media/913571-zelenskij-i-sibiga-vislovili-spivcutta-pivdennij-korei-cerez-avariu-litaka/",
+            "headline": "Зеленський і Сибіга висловили співчуття Південній Кореї через аварію літака",
+            "lemmatized_headline": "зеленський і сибіга висловити співчуття південний корея через аварія літак",
+            "datetime": "2024-12-29T13:01+02:00",
+            "cl_lem_headline": "зеленський і сибіга висловити співчуття південний корея через аварія літак"
+        }
+    },
+    {
+        "ID": 763,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/907781-na-okupovanij-lugansini-strafuvatimut-za-propagandu-abortiv-lisogor/",
+            "headline": "На окупованій Луганщині штрафуватимуть за пропаганду абортів — Лисогор",
+            "lemmatized_headline": "на окупований луганщина штрафувати за пропаганда аборт — лисогор",
+            "datetime": "2024-12-21T11:50+02:00",
+            "cl_lem_headline": "на окупований луганщина штрафувати за пропаганда аборт лисогор"
+        }
+    },
+    {
+        "ID": 535,
+        "article_data": {
+            "link": "https://suspilne.media/909847-na-pokrasene-harcuvanna-dla-poranenih-vijskovih-u-medzakladah-u-2025-mu-vidilat-ponad-2-mlrd-griven/",
+            "headline": "У Міноборони розповіли, скільки грошей виділять на покращене харчування для поранених військових у медзакладах у 2025-му",
+            "lemmatized_headline": "у міноборони розповісти , скільки гроші виділити на покращений харчування для поранений військовий у медзаклад у 2025-му",
+            "datetime": "2024-12-24T12:18+02:00",
+            "cl_lem_headline": "у міноборони розповісти скільки гроші виділити на покращений харчування для поранений військовий у медзаклад у 2025му"
+        }
+    },
+    {
+        "ID": 1302,
+        "article_data": {
+            "link": "https://suspilne.media/902431-parlament-pivdennoi-korei-shvaliv-impicment-prezidenta/",
+            "headline": "Парламент Південної Кореї схвалив імпічмент президента",
+            "lemmatized_headline": "парламент південний корея схвалити імпічмент президент",
+            "datetime": "2024-12-14T10:09+02:00",
+            "cl_lem_headline": "парламент південний корея схвалити імпічмент президент"
+        }
+    },
+    {
+        "ID": 742,
+        "article_data": {
+            "link": "https://suspilne.media/sport/907933-oleksandr-usik-tajson-furi-de-divitis-boks-21-grudna-2024/",
+            "headline": "Олександр Усик — Тайсон Ф'юрі: де дивитись бокс (21 грудня 2024)",
+            "lemmatized_headline": "олександр усик — тайсон ф'юрі : де дивитись бокс ( 21 грудень 2024 )",
+            "datetime": "2024-12-21T17:34+02:00",
+            "cl_lem_headline": "олександр усик тайсон фюрі де дивитись бокс 21 грудень 2024 "
+        }
+    },
+    {
+        "ID": 1464,
+        "article_data": {
+            "link": "https://suspilne.media/900735-aka-situacia-v-energosistemi-dani-ukrenergo/",
+            "headline": "Яка ситуація в енергосистемі — дані Укренерго",
+            "lemmatized_headline": "який ситуація в енергосистема — дані укренерго",
+            "datetime": "2024-12-12T11:47+02:00",
+            "cl_lem_headline": "який ситуація в енергосистема дані укренерго"
+        }
+    },
+    {
+        "ID": 1410,
+        "article_data": {
+            "link": "https://suspilne.media/901363-tramp-proponue-rozmistiti-vijska-es-v-ukraini-wsj/",
+            "headline": "Трамп пропонує розмістити війська ЄС в Україні — WSJ",
+            "lemmatized_headline": "трамп пропонувати розмістити війська єс в україна — wsj",
+            "datetime": "2024-12-12T21:46+02:00",
+            "cl_lem_headline": "трамп пропонувати розмістити війська єс в україна wsj"
+        }
+    },
+    {
+        "ID": 1891,
+        "article_data": {
+            "link": "https://suspilne.media/896335-vnoci-do-bilorusi-zaletili-10-sahediv-belaruski-gaun/",
+            "headline": "Вночі до Білорусі залетіли 10 \"шахедів\" — Беларускі Гаюн",
+            "lemmatized_headline": "вночі до білорусь залетіти 10 \" шахедів \" — беларускі гаюн",
+            "datetime": "2024-12-06T12:00+02:00",
+            "cl_lem_headline": "вночі до білорусь залетіти 10 шахедів беларускі гаюн"
+        }
+    },
+    {
+        "ID": 2535,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/889561-na-zaporizkomu-napramku-nacgvardijci-zupinili-sprobu-nastupu-armii-rf/",
+            "headline": "На Запорізькому напрямку нацгвардійці зупинили спробу наступу армії РФ",
+            "lemmatized_headline": "на запорізький напрямок нацгвардієць зупинити спроба наступ армія рф",
+            "datetime": "2024-11-27T15:52+02:00",
+            "cl_lem_headline": "на запорізький напрямок нацгвардієць зупинити спроба наступ армія рф"
+        }
+    },
+    {
+        "ID": 208,
+        "article_data": {
+            "link": "https://suspilne.media/poltava/913205-nacalnika-poltavskoi-ova-filipa-pronina-planuut-zvilniti-z-posadi/",
+            "headline": "Начальника Полтавської ОВА Філіпа Проніна планують звільнити з посади",
+            "lemmatized_headline": "начальник полтавський ова філіп пронін планувати звільнити з посада",
+            "datetime": "2024-12-28T15:41+02:00",
+            "cl_lem_headline": "начальник полтавський ова філіп пронін планувати звільнити з посада"
+        }
+    },
+    {
+        "ID": 2129,
+        "article_data": {
+            "link": "https://suspilne.media/893879-mobilizacia-medikiv-vidbuvaetsa-za-zapitom-komanduvanna-medicnih-sil-zsu-lasko/",
+            "headline": "Мобілізація медиків відбувається за запитом Командування медичних сил ЗСУ — Ляшко",
+            "lemmatized_headline": "мобілізація медик відбуватися за запит командування медичний сила зсу — ляшко",
+            "datetime": "2024-12-03T13:35+02:00",
+            "cl_lem_headline": "мобілізація медик відбуватися за запит командування медичний сила зсу ляшко"
+        }
+    },
+    {
+        "ID": 165,
+        "article_data": {
+            "link": "https://suspilne.media/913483-u-gruzii-kavelasvili-sklav-prisagu-prezidenta/",
+            "headline": "У Грузії Кавелашвілі склав присягу президента. Зурабішвілі покинула президентський палац",
+            "lemmatized_headline": "у грузія кавелашвілі скласти присяга президент . зурабішвілі покинути президентський палац",
+            "datetime": "2024-12-29T09:25+02:00",
+            "cl_lem_headline": "у грузія кавелашвілі скласти присяга президент зурабішвілі покинути президентський палац"
+        }
+    },
+    {
+        "ID": 2010,
+        "article_data": {
+            "link": "https://suspilne.media/895153-unesko-zaklikalo-rozsliduvati-zagibel-zurnalistki-viktorii-rosinoi/",
+            "headline": "ЮНЕСКО закликало розслідувати загибель журналістки Вікторії Рощиної",
+            "lemmatized_headline": "юнеско закликати розслідувати загибель журналістка вікторія рощиної",
+            "datetime": "2024-12-04T19:49+02:00",
+            "cl_lem_headline": "юнеско закликати розслідувати загибель журналістка вікторія рощиної"
+        }
+    },
+    {
+        "ID": 965,
+        "article_data": {
+            "link": "https://suspilne.media/905857-rosijski-bombarduvalniki-viavili-v-zoni-ppo-alaski/",
+            "headline": "Російські бомбардувальники виявили в зоні ППО Аляски",
+            "lemmatized_headline": "російський бомбардувальник виявити в зоня ппо аляска",
+            "datetime": "2024-12-19T00:49+02:00",
+            "cl_lem_headline": "російський бомбардувальник виявити в зоня ппо аляска"
+        }
+    },
+    {
+        "ID": 2023,
+        "article_data": {
+            "link": "https://suspilne.media/895005-u-polsi-proponuut-pririvnati-propagandu-oun-b-i-upa-do-fasizmu-ta-komunizmu/",
+            "headline": "У Польщі пропонують прирівняти пропаганду ОУН-б і УПА до фашизму та комунізму",
+            "lemmatized_headline": "у польща пропонувати прирівняти пропаганда оун - б і упа до фашизм та комунізм",
+            "datetime": "2024-12-04T17:19+02:00",
+            "cl_lem_headline": "у польща пропонувати прирівняти пропаганда оун б і упа до фашизм та комунізм"
+        }
+    },
+    {
+        "ID": 1999,
+        "article_data": {
+            "link": "https://suspilne.media/895253-nabula-cinnosti-oboronna-ugoda-miz-pivnicnou-koreeu-ta-rosieu/",
+            "headline": "Набула чинності оборонна угода між Північною Кореєю та Росією",
+            "lemmatized_headline": "набути чинність оборонний угода між північний корея та росія",
+            "datetime": "2024-12-05T00:26+02:00",
+            "cl_lem_headline": "набути чинність оборонний угода між північний корея та росія"
+        }
+    },
+    {
+        "ID": 2667,
+        "article_data": {
+            "link": "https://suspilne.media/888155-ataka-na-ternopil-ta-kiiv-zbroa-vid-partneriv-ta-kndr-rozsirue-virobnictvo-raket-golovni-novini-ranku-26-listopada/",
+            "headline": "Атака на Тернопіль та Київ, зброя від партнерів та КНДР розширює виробництво ракет: головні новини ранку 26 листопада",
+            "lemmatized_headline": "атака на тернопіль та київ , зброя від партнер та кндр розширювати виробництво ракета : головний новина ранок 26 листопад",
+            "datetime": "2024-11-26T08:02+02:00",
+            "cl_lem_headline": "атака на тернопіль та київ зброя від партнер та кндр розширювати виробництво ракета головний новина ранок 26 листопад"
+        }
+    },
+    {
+        "ID": 1986,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/895127-u-zaporizzi-zrujnovani-kabami-budinki-na-krugovij-59-a-ta-feliksa-movcanovskogo-21-ne-budut-vidnovluvati/",
+            "headline": "У Запоріжжі зруйновані КАБами будинки на Круговій, 59-а та Фелікса Мовчановського, 21 не будуть відновлювати",
+            "lemmatized_headline": "у запоріжжя зруйнований кабами будинок на круговий , 59-а та фелікс мовчановського , 21 не бути відновлювати",
+            "datetime": "2024-12-05T09:19+02:00",
+            "cl_lem_headline": "у запоріжжя зруйнований кабами будинок на круговий 59а та фелікс мовчановського 21 не бути відновлювати"
+        }
+    },
+    {
+        "ID": 2623,
+        "article_data": {
+            "link": "https://suspilne.media/888617-smigal-povidomiv-pro-vdoskonalenna-mehanizmu-viplat-programi-emalatko/",
+            "headline": "Шмигаль повідомив про вдосконалення механізму виплат програми єМалятко",
+            "lemmatized_headline": "шмигаль повідомити про вдосконалення механізм виплата програма ємалятко",
+            "datetime": "2024-11-26T15:09+02:00",
+            "cl_lem_headline": "шмигаль повідомити про вдосконалення механізм виплата програма ємалятко"
+        }
+    },
+    {
+        "ID": 124,
+        "article_data": {
+            "link": "https://suspilne.media/913833-povitrani-sili-sprostuvali-rosijskij-fejk-pro-vzatta-v-polon-ukrainskogo-lotcika/",
+            "headline": "Повітряні сили спростували російський фейк про взяття в полон українського льотчика",
+            "lemmatized_headline": "повітряний сила спростувати російський фейк про взяття в полон український льотчик",
+            "datetime": "2024-12-29T23:26+02:00",
+            "cl_lem_headline": "повітряний сила спростувати російський фейк про взяття в полон український льотчик"
+        }
+    },
+    {
+        "ID": 1689,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/889589-zaraz-vidznacu-de-blindazi-buhgalterku-na-cuguivsini-zasudili-za-posirenna-informacii-pro-zsu-virok-sudu/",
+            "headline": "\"Зараз відзначу, де бліндажі\". Бухгалтерку на Чугуївщині засудили за поширення інформації про ЗСУ — вирок суду",
+            "lemmatized_headline": "\" Зараз відзначити , де бліндаж \" . бухгалтерка на чугуївщина засудити за поширення інформація про зсу — вирок суд",
+            "datetime": "2024-12-09T14:06+02:00",
+            "cl_lem_headline": " Зараз відзначити де бліндаж бухгалтерка на чугуївщина засудити за поширення інформація про зсу вирок суд"
+        }
+    },
+    {
+        "ID": 656,
+        "article_data": {
+            "link": "https://suspilne.media/908665-u-pivdennij-korei-stvorili-ekzoskelet-zalizna-ludina-so-dozvolae-paralizovanim-hoditi/",
+            "headline": "У Південній Кореї створили екзоскелет \"Залізна людина\", що дозволяє паралізованим ходити",
+            "lemmatized_headline": "у південний корея створити екзоскелет \" залізний людина \" , що дозволяти паралізований ходити",
+            "datetime": "2024-12-23T04:59+02:00",
+            "cl_lem_headline": "у південний корея створити екзоскелет залізний людина що дозволяти паралізований ходити"
+        }
+    },
+    {
+        "ID": 2072,
+        "article_data": {
+            "link": "https://suspilne.media/crimea/894399-u-cornomu-mori-4-grudna-perebuvaut-cotiri-nosii-raket-kalibr-vms-zsu/",
+            "headline": "У Чорному морі 4 грудня перебувають чотири носії ракет \"Калібр\" — ВМС ЗСУ",
+            "lemmatized_headline": "у чорний море 4 грудень перебувати чотири носій ракета \" калібр \" — вмс зсу",
+            "datetime": "2024-12-04T07:53+02:00",
+            "cl_lem_headline": "у чорний море 4 грудень перебувати чотири носій ракета калібр вмс зсу"
+        }
+    },
+    {
+        "ID": 537,
+        "article_data": {
+            "link": "https://suspilne.media/909845-rituali-ak-opora-sans-na-vidnovlenna-psihologi-pro-svatkuvanna-pid-cas-vijni/",
+            "headline": "Ритуали як опора, шанс на відновлення. Психологи — про святкування під час війни",
+            "lemmatized_headline": "ритуали як опора , шанс на відновлення . психолог — про святкування під час війна",
+            "datetime": "2024-12-24T12:14+02:00",
+            "cl_lem_headline": "ритуали як опора шанс на відновлення психолог про святкування під час війна"
+        }
+    },
+    {
+        "ID": 920,
+        "article_data": {
+            "link": "https://suspilne.media/uzhhorod/906289-najbilsa-kilkist-skarg-na-robotu-tck-ta-sp-nadhodit-iz-zakarpatta-lubinec/",
+            "headline": "Найбільша кількість скарг на роботу ТЦК та СП надходить із Закарпаття — Лубінець",
+            "lemmatized_headline": "найбільший кількість скарга на робота тцк та сп надходити із закарпаття — лубінець",
+            "datetime": "2024-12-19T14:31+02:00",
+            "cl_lem_headline": "найбільший кількість скарга на робота тцк та сп надходити із закарпаття лубінець"
+        }
+    },
+    {
+        "ID": 434,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/910641-armia-rf-aktivizuvalas-na-limanskomu-napramku-j-aktivno-sturmue-pozicii-zsu/",
+            "headline": "Армія РФ активізувалась на Лиманському напрямку й активно штурмує позиції ЗСУ",
+            "lemmatized_headline": "армія рф активізуватися на лиманський напрямок й активно штурмувати позиція зсу",
+            "datetime": "2024-12-25T13:48+02:00",
+            "cl_lem_headline": "армія рф активізуватися на лиманський напрямок й активно штурмувати позиція зсу"
+        }
+    },
+    {
+        "ID": 1795,
+        "article_data": {
+            "link": "https://suspilne.media/sport/897283-andrij-mandzij-zdobuv-persu-medal-u-sezoni-kubka-nacij-iz-sannogo-sportu/",
+            "headline": "Андрій Мандзій здобув першу медаль у сезоні Кубка націй із санного спорту",
+            "lemmatized_headline": "андрій мандзій здобути перший медаль у сезон кубок нація із санний спорт",
+            "datetime": "2024-12-07T17:03+02:00",
+            "cl_lem_headline": "андрій мандзій здобути перший медаль у сезон кубок нація із санний спорт"
+        }
+    },
+    {
+        "ID": 809,
+        "article_data": {
+            "link": "https://suspilne.media/907517-u-zastosunku-rezerv-zavitsa-napravlenna-na-vlk/",
+            "headline": "У застосунку \"Резерв+\" з'явиться направлення на ВЛК",
+            "lemmatized_headline": "у застосунок \" резерв+ \" з'явитися направлення на влк",
+            "datetime": "2024-12-20T18:35+02:00",
+            "cl_lem_headline": "у застосунок резерв зявитися направлення на влк"
+        }
+    },
+    {
+        "ID": 620,
+        "article_data": {
+            "link": "https://suspilne.media/ternopil/909057-vkrali-katafalk-na-ternopilsini-pidozruut-troh-nepovnolitnih/",
+            "headline": "\"Вкрали катафалк\": на Тернопільщині підозрюють трьох неповнолітніх",
+            "lemmatized_headline": "\" вкрасти катафалк \" : на тернопільщина підозрювати три неповнолітній",
+            "datetime": "2024-12-23T13:17+02:00",
+            "cl_lem_headline": " вкрасти катафалк на тернопільщина підозрювати три неповнолітній"
+        }
+    },
+    {
+        "ID": 2398,
+        "article_data": {
+            "link": "https://suspilne.media/890951-sili-ppo-vnoci-znisili-88-droniv/",
+            "headline": "Сили ППО вночі знищили 88 дронів",
+            "lemmatized_headline": "сила ппо вночі знищити 88 дрон",
+            "datetime": "2024-11-29T09:41+02:00",
+            "cl_lem_headline": "сила ппо вночі знищити 88 дрон"
+        }
+    },
+    {
+        "ID": 2342,
+        "article_data": {
+            "link": "https://suspilne.media/891697-ukraina-prosit-alans-nadati-zaprosenna-na-clenstvo-v-nato-nastupnogo-tizna/",
+            "headline": "Україна просить Альянс надати запрошення на членство в НАТО наступного тижня",
+            "lemmatized_headline": "україна просити альянс надати запрошення на членство в нато наступний тиждень",
+            "datetime": "2024-11-29T20:55+02:00",
+            "cl_lem_headline": "україна просити альянс надати запрошення на членство в нато наступний тиждень"
+        }
+    },
+    {
+        "ID": 1945,
+        "article_data": {
+            "link": "https://suspilne.media/895827-vlasnikam-kazino-pin-up-ogoloseno-pidozri-u-posobnictvi-rosii/",
+            "headline": "Власникам казино Pin-Up оголошено підозри у пособництві Росії",
+            "lemmatized_headline": "власник казино pin - up оголосити підозра у пособництво росія",
+            "datetime": "2024-12-05T16:50+02:00",
+            "cl_lem_headline": "власник казино pin up оголосити підозра у пособництво росія"
+        }
+    },
+    {
+        "ID": 662,
+        "article_data": {
+            "link": "https://suspilne.media/908643-papa-rimskij-zaklikav-do-rizdvanogo-peremira-u-sviti-zgadav-i-pro-ukrainu/",
+            "headline": "Папа Римський закликав до Різдвяного перемир'я у світі, згадав і про Україну",
+            "lemmatized_headline": "папа римський закликати до різдвяний перемир'я у світ , згадати і про україна",
+            "datetime": "2024-12-22T22:56+02:00",
+            "cl_lem_headline": "папа римський закликати до різдвяний перемиря у світ згадати і про україна"
+        }
+    },
+    {
+        "ID": 891,
+        "article_data": {
+            "link": "https://suspilne.media/906625-kandidatka-u-kancleri-nimeccini-vajdel-zaklikala-do-vihodu-iz-es/",
+            "headline": "Кандидатка у канцлери Німеччини Вайдель закликала до виходу із ЄС",
+            "lemmatized_headline": "кандидатка у канцлери німеччина вайдель закликати до вихід із єс",
+            "datetime": "2024-12-19T20:14+02:00",
+            "cl_lem_headline": "кандидатка у канцлери німеччина вайдель закликати до вихід із єс"
+        }
+    },
+    {
+        "ID": 1045,
+        "article_data": {
+            "link": "https://suspilne.media/904995-ssa-ne-viklucaut-perekidanna-novih-pidrozdiliv-armii-kndr-do-rosii/",
+            "headline": "США не виключають перекидання нових підрозділів армії КНДР до Росії",
+            "lemmatized_headline": "сша не виключати перекидання новий підрозділ армія кндр до росія",
+            "datetime": "2024-12-17T23:03+02:00",
+            "cl_lem_headline": "сша не виключати перекидання новий підрозділ армія кндр до росія"
+        }
+    },
+    {
+        "ID": 1773,
+        "article_data": {
+            "link": "https://suspilne.media/897513-u-minoboroni-rf-zaavili-pro-zbitta-46-bezpilotnikiv/",
+            "headline": "У Міноборони РФ заявили про збиття 46 безпілотників",
+            "lemmatized_headline": "у міноборони рф заявити про збиття 46 безпілотник",
+            "datetime": "2024-12-08T07:14+02:00",
+            "cl_lem_headline": "у міноборони рф заявити про збиття 46 безпілотник"
+        }
+    },
+    {
+        "ID": 77,
+        "article_data": {
+            "link": "https://suspilne.media/914343-polsa-u-2025-roci-zbudue-dorogu-do-kordonu-z-rosijskim-kaliningradom/",
+            "headline": "Польща у 2025 році збудує дорогу до кордону з російським Калінінградом",
+            "lemmatized_headline": "польща у 2025 рік збудує дорога до кордон з російський калінінград",
+            "datetime": "2024-12-30T15:14+02:00",
+            "cl_lem_headline": "польща у 2025 рік збудує дорога до кордон з російський калінінград"
+        }
+    },
+    {
+        "ID": 2418,
+        "article_data": {
+            "link": "https://suspilne.media/890817-29-listopada-nabude-cinnosti-zakon-pro-pidvisenna-podatkiv/",
+            "headline": "29 листопада набуде чинності закон про підвищення податків",
+            "lemmatized_headline": "29 листопад набути чинність закон про підвищення податок",
+            "datetime": "2024-11-28T22:17+02:00",
+            "cl_lem_headline": "29 листопад набути чинність закон про підвищення податок"
+        }
+    },
+    {
+        "ID": 2577,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/889023-u-kievi-vnaslidok-ataki-bezpilotnikiv-dvoe-ludej-poraneni/",
+            "headline": "У Києві внаслідок атаки безпілотників двоє людей поранені",
+            "lemmatized_headline": "у кий внаслідок атака безпілотник двоє людина поранений",
+            "datetime": "2024-11-27T06:22+02:00",
+            "cl_lem_headline": "у кий внаслідок атака безпілотник двоє людина поранений"
+        }
+    },
+    {
+        "ID": 874,
+        "article_data": {
+            "link": "https://suspilne.media/906729-prezidentka-ek-evrosouz-dopomoze-ukraini-zakriti-finansovu-progalinu-v-2025-roci/",
+            "headline": "Президентка ЄК: Євросоюз допоможе Україні закрити фінансову прогалину в 2025 році",
+            "lemmatized_headline": "президентка єк : євросоюз допомогти україна закрити фінансовий прогалина в 2025 рік",
+            "datetime": "2024-12-20T05:00+02:00",
+            "cl_lem_headline": "президентка єк євросоюз допомогти україна закрити фінансовий прогалина в 2025 рік"
+        }
+    },
+    {
+        "ID": 2176,
+        "article_data": {
+            "link": "https://suspilne.media/893471-ukrainci-za-kordonom-aki-otrimaut-tisacu-vid-zelenskogo-povertatimut-kosti-smigal/",
+            "headline": "Українці за кордоном, які отримають \"тисячу від Зеленського\", повертатимуть кошти — Шмигаль",
+            "lemmatized_headline": "українець за кордон , який отримають \" тисяча від зеленський \" , повертати кошти — шмигаль",
+            "datetime": "2024-12-02T20:44+02:00",
+            "cl_lem_headline": "українець за кордон який отримають тисяча від зеленський повертати кошти шмигаль"
+        }
+    },
+    {
+        "ID": 438,
+        "article_data": {
+            "link": "https://suspilne.media/khmelnytskiy/645770-aki-dokumenti-avtora-vsesvitno-vidomogo-sedrika-zberigautsa-u-fondi-hmelnickogo-arhivu/",
+            "headline": "Документи автора всесвітньо відомого \"Щедрика\" зберігаються у фонді хмельницького архіву",
+            "lemmatized_headline": "документ автор всесвітньо відомий \" щедрик \" зберігатися у фонд хмельницький архів",
+            "datetime": "2024-12-25T13:02+02:00",
+            "cl_lem_headline": "документ автор всесвітньо відомий щедрик зберігатися у фонд хмельницький архів"
+        }
+    },
+    {
+        "ID": 2339,
+        "article_data": {
+            "link": "https://suspilne.media/891717-mirnij-plan-kelloga-peredbacae-zamorozenna-frontu-ta-pomaksenna-sankcij-rf-v-obmin-na-mirnu-ugodu-cnn/",
+            "headline": "Мирний план Келлога передбачає замороження фронту та пом’якшення санкцій РФ в обмін на мирну угоду – CNN",
+            "lemmatized_headline": "мирний план келлог передбачати замороження фронт та пом’якшення санкція рф в обмін на мирний угода – cnn",
+            "datetime": "2024-11-29T22:17+02:00",
+            "cl_lem_headline": "мирний план келлог передбачати замороження фронт та помякшення санкція рф в обмін на мирний угода cnn"
+        }
+    },
+    {
+        "ID": 2401,
+        "article_data": {
+            "link": "https://suspilne.media/sumy/890909-bronuvanna-pracivnikiv-rol-ova-ta-mozlivist-skasuvanna-poasnenna-ekspertiv/",
+            "headline": "Бронювання працівників: роль ОВА та можливість скасування — пояснення експертів",
+            "lemmatized_headline": "бронювання працівник : роль ова та можливість скасування — пояснення експерт",
+            "datetime": "2024-11-29T08:59+02:00",
+            "cl_lem_headline": "бронювання працівник роль ова та можливість скасування пояснення експерт"
+        }
+    },
+    {
+        "ID": 2349,
+        "article_data": {
+            "link": "https://suspilne.media/891647-za-rekruting-u-koznij-brigadi-vidpovidatimut-kilka-ludej-dzerela-u-genstabi-zsu/",
+            "headline": "За рекрутинг у кожній бригаді відповідатимуть кілька людей — джерела у Генштабі ЗСУ",
+            "lemmatized_headline": "за рекрутинг у кожний бригада відповідати кілька людина — джерело у генштаб зсу",
+            "datetime": "2024-11-29T19:18+02:00",
+            "cl_lem_headline": "за рекрутинг у кожний бригада відповідати кілька людина джерело у генштаб зсу"
+        }
+    },
+    {
+        "ID": 1714,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/898045-u-centri-okupovanogo-donecka-stavsa-vibuh-detali/",
+            "headline": "У центрі окупованого Донецька стався вибух: що відомо",
+            "lemmatized_headline": "у центр окупований донецьк статися вибух : що відомо",
+            "datetime": "2024-12-09T09:28+02:00",
+            "cl_lem_headline": "у центр окупований донецьк статися вибух що відомо"
+        }
+    },
+    {
+        "ID": 1040,
+        "article_data": {
+            "link": "https://suspilne.media/905017-bilsist-polakiv-vistupaut-za-mirnu-ugodu-z-teritorialnimi-postupkami-opituvanna/",
+            "headline": "Більшість поляків виступають за мирну угоду з територіальними поступками — опитування",
+            "lemmatized_headline": "більшість поляк виступати за мирний угода з територіальний поступка — опитування",
+            "datetime": "2024-12-18T05:31+02:00",
+            "cl_lem_headline": "більшість поляк виступати за мирний угода з територіальний поступка опитування"
+        }
+    },
+    {
+        "ID": 2305,
+        "article_data": {
+            "link": "https://suspilne.media/culture/891081-svato-andria-pervozvannogo-5-atributiv-ta-ritualiv-bez-akih-ne-mozna-bulo-uaviti-cej-den-v-davninu/",
+            "headline": "Свято Андрія Первозванного: 5 атрибутів та ритуалів, без яких не можна було уявити цей день в давнину",
+            "lemmatized_headline": "свято андрій первозванний : 5 атрибут та ритуал , без який не можний бути уявити цей день в давнина",
+            "datetime": "2024-11-30T16:36+02:00",
+            "cl_lem_headline": "свято андрій первозванний 5 атрибут та ритуал без який не можний бути уявити цей день в давнина"
+        }
+    },
+    {
+        "ID": 1796,
+        "article_data": {
+            "link": "https://suspilne.media/zaporizhzhia/896735-dobrovilno-pisli-na-spivpracu-z-rf-na-zaporizzi-zasudili-za-derzzradu-dvoh-ekspolicejskih-iz-cernigivki/",
+            "headline": "Добровільно пішли на співпрацю з РФ: на Запоріжжі засудили за держзраду двох експоліцейських із Чернігівки",
+            "lemmatized_headline": "добровільно піти на співпраця з рф : на запоріжжя засудити за держзрада два експоліцейських із чернігівка",
+            "datetime": "2024-12-07T17:00+02:00",
+            "cl_lem_headline": "добровільно піти на співпраця з рф на запоріжжя засудити за держзрада два експоліцейських із чернігівка"
+        }
+    },
+    {
+        "ID": 1174,
+        "article_data": {
+            "link": "https://suspilne.media/903673-norvegia-vidilit-ponad-240-mln-na-zmicnenna-vmf-ukraini/",
+            "headline": "Норвегія виділить понад $240 млн на зміцнення ВМФ України",
+            "lemmatized_headline": "норвегія виділити понад $ 240 млн на зміцнення вмф україна",
+            "datetime": "2024-12-16T14:15+02:00",
+            "cl_lem_headline": "норвегія виділити понад 240 млн на зміцнення вмф україна"
+        }
+    },
+    {
+        "ID": 2364,
+        "article_data": {
+            "link": "https://suspilne.media/891375-rf-zdijsnue-prigolomslivo-bezrozsudni-diversii-v-evropi-golova-mi-6/",
+            "headline": "РФ здійснює \"приголомшливо безрозсудні\" диверсії в Європі — голова МІ-6",
+            "lemmatized_headline": "рф здійснювати \" приголомшливо безрозсудний \" диверсія в європа — голова мі-6",
+            "datetime": "2024-11-29T15:15+02:00",
+            "cl_lem_headline": "рф здійснювати приголомшливо безрозсудний диверсія в європа голова мі6"
+        }
+    },
+    {
+        "ID": 1750,
+        "article_data": {
+            "link": "https://suspilne.media/897793-cerez-droni-ta-novi-mini-sukati-zagiblih-vazce-ak-pracue-posukova-grupa-placdarm-suspilne-reportaz/",
+            "headline": "\"Через дрони та нові міни — шукати загиблих важче\". Як працює пошукова група \"Плацдарм\". СУСПІЛЬНЕ | РЕПОРТАЖ",
+            "lemmatized_headline": "\" через дрон та новий міна — шукати загиблих важче \" . як працювати пошуковий група \" плацдарм \" . суспільний | репортаж",
+            "datetime": "2024-12-08T16:40+02:00",
+            "cl_lem_headline": " через дрон та новий міна шукати загиблих важче як працювати пошуковий група плацдарм суспільний репортаж"
+        }
+    },
+    {
+        "ID": 2327,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/891803-z-borovoi-na-harkivsini-zaversili-primusovu-evakuaciu-ditej-z-rodinami/",
+            "headline": "З Борової на Харківщині завершили примусову евакуацію дітей з родинами",
+            "lemmatized_headline": "з борова на харківщина завершити примусовий евакуація дитина з родина",
+            "datetime": "2024-11-30T09:33+02:00",
+            "cl_lem_headline": "з борова на харківщина завершити примусовий евакуація дитина з родина"
+        }
+    },
+    {
+        "ID": 756,
+        "article_data": {
+            "link": "https://suspilne.media/907887-genstab-zsu-vidpravlae-vijskovih-ppo-v-pihotu-cerez-deficit-osobovogo-skladu-the-gardian/",
+            "headline": "Генштаб ЗСУ відправляє військових ППО в піхоту через дефіцит особового складу — The Gardian",
+            "lemmatized_headline": "генштаб зсу відправляти військовий ппо в піхота через дефіцит особовий склад — the gardian",
+            "datetime": "2024-12-21T13:54+02:00",
+            "cl_lem_headline": "генштаб зсу відправляти військовий ппо в піхота через дефіцит особовий склад the gardian"
+        }
+    },
+    {
+        "ID": 743,
+        "article_data": {
+            "link": "https://suspilne.media/908047-u-rosii-stalasa-seria-pidriviv-pirotehniki-v-gromadskih-miscah/",
+            "headline": "У Росії сталася серія підривів піротехніки в громадських місцях",
+            "lemmatized_headline": "у росія статися серія підрив піротехніка в громадський місце",
+            "datetime": "2024-12-21T17:20+02:00",
+            "cl_lem_headline": "у росія статися серія підрив піротехніка в громадський місце"
+        }
+    },
+    {
+        "ID": 2669,
+        "article_data": {
+            "link": "https://suspilne.media/888177-u-ssa-zakrili-spravu-sodo-vtrucanna-trampa-u-vibori-u-2020-roci/",
+            "headline": "У США закрили справу щодо втручання Трампа у вибори у 2020 році",
+            "lemmatized_headline": "у сша закрити справа щодо втручання трамп у вибори у 2020 рік",
+            "datetime": "2024-11-26T07:58+02:00",
+            "cl_lem_headline": "у сша закрити справа щодо втручання трамп у вибори у 2020 рік"
+        }
+    },
+    {
+        "ID": 1467,
+        "article_data": {
+            "link": "https://suspilne.media/kyiv/900635-zaklikav-do-derzperevorotu-sbu-zatrimala-v-kievi-poslidovnika-partii-saria/",
+            "headline": "Закликав до держперевороту: СБУ затримала в Києві послідовника \"Партії Шарія\"",
+            "lemmatized_headline": "закликати до держпереворот : сбу затримати в кий послідовник \" партія шарій \"",
+            "datetime": "2024-12-12T11:18+02:00",
+            "cl_lem_headline": "закликати до держпереворот сбу затримати в кий послідовник партія шарій "
+        }
+    },
+    {
+        "ID": 1205,
+        "article_data": {
+            "link": "https://suspilne.media/903251-slovaccina-spodivaetsa-na-prodovzenna-tranzitu-rosijskogo-gazu-cerez-ukrainu/",
+            "headline": "Словаччина сподівається на продовження транзиту російського газу через Україну",
+            "lemmatized_headline": "словаччина сподіватися на продовження транзит російський газ через україна",
+            "datetime": "2024-12-16T05:49+02:00",
+            "cl_lem_headline": "словаччина сподіватися на продовження транзит російський газ через україна"
+        }
+    },
+    {
+        "ID": 359,
+        "article_data": {
+            "link": "https://suspilne.media/911589-ukraina-otrimala-12-mlrd-dolariv-vid-aponii-kudi-ih-spramuvali/",
+            "headline": "Україна отримала 1,2 млрд доларів від Японії. Куди їх спрямували",
+            "lemmatized_headline": "україна отримати 1,2 млрд долар від японія . куди вони спрямувати",
+            "datetime": "2024-12-26T14:45+02:00",
+            "cl_lem_headline": "україна отримати 12 млрд долар від японія куди вони спрямувати"
+        }
+    },
+    {
+        "ID": 1198,
+        "article_data": {
+            "link": "https://suspilne.media/903275-genstab-za-dobu-na-fronti-228-bojovih-zitknen-rf-vtratila-1070-vijskovih/",
+            "headline": "Генштаб: за добу на фронті 228 бойових зіткнень, РФ втратила 1070 військових",
+            "lemmatized_headline": "генштаб : за доба на фронт 228 бойовий зіткнення , рф втратити 1070 військовий",
+            "datetime": "2024-12-16T08:19+02:00",
+            "cl_lem_headline": "генштаб за доба на фронт 228 бойовий зіткнення рф втратити 1070 військовий"
+        }
+    },
+    {
+        "ID": 1811,
+        "article_data": {
+            "link": "https://suspilne.media/897127-kancler-nimeccini-pisla-rozmovi-z-trampom-zmozemo-domovitisa-pro-spilnu-strategiu-sodo-ukraini/",
+            "headline": "Канцлер Німеччини після розмови з Трампом: \"Зможемо домовитися про спільну стратегію щодо України\"",
+            "lemmatized_headline": "канцлер німеччина після розмова з трамп : \" змогти домовитися про спільний стратегія щодо україна \"",
+            "datetime": "2024-12-07T11:38+02:00",
+            "cl_lem_headline": "канцлер німеччина після розмова з трамп змогти домовитися про спільний стратегія щодо україна "
+        }
+    },
+    {
+        "ID": 1358,
+        "article_data": {
+            "link": "https://suspilne.media/901809-minoboroni-dodatkovo-vidililo-ponad-1-mlrd-griven-na-droni-dla-zsu/",
+            "headline": "Міноборони додатково виділило понад 1 млрд гривень на дрони для ЗСУ",
+            "lemmatized_headline": "міноборони додатково виділити понад 1 млрд гривня на дрон для зсу",
+            "datetime": "2024-12-13T13:37+02:00",
+            "cl_lem_headline": "міноборони додатково виділити понад 1 млрд гривня на дрон для зсу"
+        }
+    },
+    {
+        "ID": 1841,
+        "article_data": {
+            "link": "https://suspilne.media/896953-ukrainsku-pismennicu-viktoriu-amelinu-posmertno-nagorodili-specvidznakou-prix-voltaire/",
+            "headline": "Українську письменницю Вікторію Амеліну посмертно нагородили спецвідзнакою Prix Voltaire",
+            "lemmatized_headline": "український письменниця вікторія амеліна посмертно нагородити спецвідзнака prix voltaire",
+            "datetime": "2024-12-06T21:24+02:00",
+            "cl_lem_headline": "український письменниця вікторія амеліна посмертно нагородити спецвідзнака prix voltaire"
+        }
+    },
+    {
+        "ID": 1077,
+        "article_data": {
+            "link": "https://suspilne.media/904669-bojko-pisla-dopitu-v-sbu-vibacivsa-pered-ukraincami/",
+            "headline": "Бойко після допиту в СБУ вибачився перед українцями",
+            "lemmatized_headline": "бойко після допит в сбу вибачитися перед українець",
+            "datetime": "2024-12-17T15:41+02:00",
+            "cl_lem_headline": "бойко після допит в сбу вибачитися перед українець"
+        }
+    },
+    {
+        "ID": 2139,
+        "article_data": {
+            "link": "https://suspilne.media/sport/890139-rezultati-ne-mensi-niz-torik-trener-ukraini-z-sannogo-sportu-rozpoviv-pro-cili-na-peredolimpijskij-sezon/",
+            "headline": "\"Результати — не менші, ніж торік\". Тренер України з санного спорту розповів про цілі на передолімпійський сезон",
+            "lemmatized_headline": "\" результат — не менший , ніж торік \" . тренер україна з санний спорт розповісти про ціль на передолімпійський сезон",
+            "datetime": "2024-12-03T11:26+02:00",
+            "cl_lem_headline": " результат не менший ніж торік тренер україна з санний спорт розповісти про ціль на передолімпійський сезон"
+        }
+    },
+    {
+        "ID": 2525,
+        "article_data": {
+            "link": "https://suspilne.media/889679-budanov-pro-peredacu-rosii-tu-160-so-stalas-25-rokiv-tomu-ukraina-nadali-ne-mae-prava-dopuskati-takih-pomilok/",
+            "headline": "Буданов про передачу Росії Ту-160, що сталась 25 років тому: Україна надалі не має права допускати таких помилок",
+            "lemmatized_headline": "буданов про передача росія ту-160 , що статися 25 рік тому : україна надалі не мати право допускати такий помилка",
+            "datetime": "2024-11-27T18:25+02:00",
+            "cl_lem_headline": "буданов про передача росія ту160 що статися 25 рік тому україна надалі не мати право допускати такий помилка"
+        }
+    },
+    {
+        "ID": 1082,
+        "article_data": {
+            "link": "https://suspilne.media/904605-nardepa-tisenka-suditimut-za-nezakonne-pozbavlenna-voli-ludini/",
+            "headline": "Нардепа Тищенка судитимуть за незаконне позбавлення волі людини",
+            "lemmatized_headline": "нардеп тищенко судити за незаконний позбавлення воля людина",
+            "datetime": "2024-12-17T14:58+02:00",
+            "cl_lem_headline": "нардеп тищенко судити за незаконний позбавлення воля людина"
+        }
+    },
+    {
+        "ID": 76,
+        "article_data": {
+            "link": "https://suspilne.media/kherson/914337-rosijski-vijskovi-skinuli-vibuhivku-z-bpla-u-hersoni-e-poraneni/",
+            "headline": "Російські військові скинули вибухівку з БпЛА у Херсоні: є поранені",
+            "lemmatized_headline": "російський військовий скинути вибухівка з бпла у херсон : бути поранений",
+            "datetime": "2024-12-30T15:20+02:00",
+            "cl_lem_headline": "російський військовий скинути вибухівка з бпла у херсон бути поранений"
+        }
+    },
+    {
+        "ID": 1994,
+        "article_data": {
+            "link": "https://suspilne.media/895269-avstrijskij-sud-zaboroniv-ekstradiciu-dmitra-firtasa-do-ssa/",
+            "headline": "Австрійський суд заборонив екстрадицію Дмитра Фірташа до США",
+            "lemmatized_headline": "австрійський суд заборонити екстрадиція дмитро фірташ до сша",
+            "datetime": "2024-12-05T03:03+02:00",
+            "cl_lem_headline": "австрійський суд заборонити екстрадиція дмитро фірташ до сша"
+        }
+    },
+    {
+        "ID": 184,
+        "article_data": {
+            "link": "https://suspilne.media/913381-urad-zatverdiv-mehanizm-otrimanna-posvidok-na-prozivanna-dla-inozemnih-bijciv-ta-volonteriv/",
+            "headline": "Уряд затвердив механізм отримання посвідок на проживання для іноземних бійців та волонтерів",
+            "lemmatized_headline": "уряд затвердити механізм отримання посвідка на проживання для іноземний боєць та волонтер",
+            "datetime": "2024-12-28T21:09+02:00",
+            "cl_lem_headline": "уряд затвердити механізм отримання посвідка на проживання для іноземний боєць та волонтер"
+        }
+    },
+    {
+        "ID": 1028,
+        "article_data": {
+            "link": "https://suspilne.media/kharkiv/905139-sergij-zadan-anonsuvav-novij-muzicnij-albom-semafori-akij-zapisav-z-uriem-gurzi/",
+            "headline": "Сергій Жадан анонсував новий музичний альбом \"Семафори\", який записав з Юрієм Гуржи",
+            "lemmatized_headline": "сергій жадан анонсувати новий музичний альбом \" семафор \" , який записати з юрій гуржи",
+            "datetime": "2024-12-18T10:17+02:00",
+            "cl_lem_headline": "сергій жадан анонсувати новий музичний альбом семафор який записати з юрій гуржи"
+        }
+    },
+    {
+        "ID": 2645,
+        "article_data": {
+            "link": "https://suspilne.media/donbas/888359-rosijske-vijsko-namagaetsa-vzati-misto-kurahove-ta-logisticni-slahi-pid-vognevij-kontrol-recnik-osuv-hortica/",
+            "headline": "Російське військо намагається взяти місто Курахове та логістичні шляхи під вогневий контроль — речник ОСУВ \"Хортиця\"",
+            "lemmatized_headline": "російський військо намагатися взяти місто курахове та логістичний шлях під вогневий контроль — речник осув \" хортиця \"",
+            "datetime": "2024-11-26T11:55+02:00",
+            "cl_lem_headline": "російський військо намагатися взяти місто курахове та логістичний шлях під вогневий контроль речник осув хортиця "
+        }
+    },
+    {
+        "ID": 2488,
+        "article_data": {
+            "link": "https://suspilne.media/kropyvnytskiy/889995-rosijska-armia-atakuvala-kirovogradsinu-raketami-j-dronami-na-misci-vibuhiv-likvidovuut-pozezu/",
+            "headline": "Російська армія атакувала Кіровоградщину ракетами й дронами. На місці вибухів ліквідовують пожежу",
+            "lemmatized_headline": "російський армія атакувати кіровоградщина ракета й дрон . на місце вибух ліквідовувати пожежа",
+            "datetime": "2024-11-28T09:25+02:00",
+            "cl_lem_headline": "російський армія атакувати кіровоградщина ракета й дрон на місце вибух ліквідовувати пожежа"
+        }
+    },
+    {
+        "ID": 904,
+        "article_data": {
+            "link": "https://suspilne.media/zhytomyr/906477-sprava-reketiriv-z-zitomirsini-za-faktom-pereskodzanna-profesijnij-dialnosti-zurnalistiv-rozpocali-rozsliduvanna/",
+            "headline": "Справа рекетирів з Житомирщини: за фактом перешкоджання професійній діяльності журналістів розпочали розслідування",
+            "lemmatized_headline": "справа рекетир з житомирщина : за факт перешкоджання професійний діяльність журналіст розпочати розслідування",
+            "datetime": "2024-12-19T17:00+02:00",
+            "cl_lem_headline": "справа рекетир з житомирщина за факт перешкоджання професійний діяльність журналіст розпочати розслідування"
+        }
+    },
+    {
+        "ID": 2599,
+        "article_data": {
+            "link": "https://suspilne.media/888897-velika-britania-prodovzit-vizi-dla-ukrainskih-bizenciv/",
+            "headline": "Велика Британія продовжить візи для українських біженців",
+            "lemmatized_headline": "великий британія продовжити віза для український біженець",
+            "datetime": "2024-11-26T19:35+02:00",
+            "cl_lem_headline": "великий британія продовжити віза для український біженець"
+        }
+    },
+    {
+        "ID": 680,
+        "article_data": {
+            "link": "https://suspilne.media/908501-islandia-planue-vinesti-na-referendum-pitanna-pro-clenstvo-v-es/",
+            "headline": "Ісландія планує винести на референдум питання про членство в ЄС",
+            "lemmatized_headline": "ісландія планувати винести на референдум питання про членство в єс",
+            "datetime": "2024-12-22T16:23+02:00",
+            "cl_lem_headline": "ісландія планувати винести на референдум питання про членство в єс"
+        }
+    },
+    {
+        "ID": 269,
+        "article_data": {
+            "link": "https://suspilne.media/912563-v-azerbaijan-airlines-zaavili-so-litak-pered-troseu-v-kazahstani-zaznav-zovnisnogo-vtrucanna/",
+            "headline": "В Azerbaijan Airlines заявили, що їхній літак перед трощею в Казахстані зазнав \"зовнішнього втручання\"",
+            "lemmatized_headline": "в azerbaijan airlines заявити , що їхній літак перед троща в казахстан зазнати \" зовнішній втручання \"",
+            "datetime": "2024-12-27T15:38+02:00",
+            "cl_lem_headline": "в azerbaijan airlines заявити що їхній літак перед троща в казахстан зазнати зовнішній втручання "
+        }
+    },
+    {
+        "ID": 2290,
+        "article_data": {
+            "link": "https://suspilne.media/892209-u-centri-kieva-1-grudna-obmezat-ruh-cerez-vizit-inozemnih-delegacij/",
+            "headline": "У центрі Києва 1 грудня обмежать рух через візит іноземних делегацій",
+            "lemmatized_headline": "у центр київ 1 грудень обмежити рух через візит іноземний делегація",
+            "datetime": "2024-11-30T22:15+02:00",
+            "cl_lem_headline": "у центр київ 1 грудень обмежити рух через візит іноземний делегація"
+        }
+    },
+    {
+        "ID": 655,
+        "article_data": {
+            "link": "https://suspilne.media/908667-tramp-obicae-najmasstabnisu-operaciu-z-deportacii-v-istorii-ssa/",
+            "headline": "Трамп обіцяє \"наймасштабнішу операцію з депортації в історії США\"",
+            "lemmatized_headline": "трамп обіцяти \" наймасштабніший операція з депортація в історія сша \"",
+            "datetime": "2024-12-23T05:15+02:00",
+            "cl_lem_headline": "трамп обіцяти наймасштабніший операція з депортація в історія сша "
+        }
+    },
+    {
+        "ID": 1993,
+        "article_data": {
+            "link": "https://suspilne.media/895271-dpa-rosijskij-korabel-vidkriv-vogon-po-gelikopteru-nimeccini-u-baltijskomu-mori/",
+            "headline": "DPA: російський корабель відкрив вогонь по гелікоптеру Німеччини у Балтійському морі",
+            "lemmatized_headline": "dpa : російський корабель відкрити вогонь по гелікоптер німеччина у балтійський море",
+            "datetime": "2024-12-05T04:01+02:00",
+            "cl_lem_headline": "dpa російський корабель відкрити вогонь по гелікоптер німеччина у балтійський море"
+        }
+    },
+    {
+        "ID": 420,
+        "article_data": {
+            "link": "https://suspilne.media/odesa/910953-dbr-znovu-zatrimalo-eksnacalnika-odeskogo-oblasnogo-tck-borisova/",
+            "headline": "ДБР знову затримало ексначальника Одеського обласного ТЦК Борисова",
+            "lemmatized_headline": "дбр знову затримати ексначальник одеський обласний тцк борисов",
+            "datetime": "2024-12-25T16:49+02:00",
+            "cl_lem_headline": "дбр знову затримати ексначальник одеський обласний тцк борисов"
+        }
+    },
+    {
+        "ID": 1587,
+        "article_data": {
+            "link": "https://suspilne.media/culture/899477-ogolosili-zuri-bukerivskoi-premii-2025-roku-do-nogo-uvijsla-aktorka-sara-dzessika-parker/",
+            "headline": "Оголосили журі Букерівської премії 2025 року — до нього увійшла акторка Сара Джессіка Паркер",
+            "lemmatized_headline": "оголосити журі букерівський премія 2025 рок — до він увійти акторка сара джессіка паркер",
+            "datetime": "2024-12-10T18:58+02:00",
+            "cl_lem_headline": "оголосити журі букерівський премія 2025 рок до він увійти акторка сара джессіка паркер"
+        }
+    }
+]
